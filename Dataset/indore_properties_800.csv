@@ -1,0 +1,801 @@
+Property_ID,Listing_price,Data_Source,Locality,Property_Type,Built_up_area_sqfeet,Total_area_sqft,BHK,Age_of_Property,Facing_direction,Nearby_Schools,Nearby_Hospitals,Nearby_Markets,Crime_Rate_Area,Road_Connectivity,Future_Projects,Registry_Rate_per_sqft,Market_Rate_per_sqft,Last_Registry_Year,Owner_Type,Latitude,Longitude
+PV0001,1772920,SYN,LIG Colony,Independent House,773,773,1,20+ years,South-East,No,Yes,No,High,Average,No,2168,2515,1992,Dealer,22.731309,75.852517
+PV0002,3050075,SYN,Banganga,Independent House,1059,1059,2,5-10 years,North,Yes,Yes,No,High,Average,No,2115,2360,2015,Owner,22.715735,75.831967
+PV0003,10204438,SYN,Scheme 54,Villa,2298,2298,3,5-10 years,North-East,No,Yes,Yes,Medium,Excellent,No,2831,3533,2015,Owner,22.72844,75.868282
+PV0004,3243749,SYN,Pipliyahana,Apartment,927,927,2,0-5 years,West,Yes,Yes,Yes,High,Good,Yes,2503,3106,2021,Owner,22.698065,75.921833
+PV0005,9321831,SYN,Scheme 54,Apartment,2191,2191,4,0-5 years,North,Yes,No,Yes,Medium,Average,No,2946,3772,2023,Owner,22.733188,75.872054
+PV0006,3054880,SYN,Bicholi Mardana,Apartment,1099,1099,2,0-5 years,South,No,No,No,Medium,Good,Yes,2187,2563,2024,Owner,22.778357,75.933143
+PV0007,8956505,SYN,Bhawarkuan,Independent House,2517,2517,4,0-5 years,East,Yes,No,Yes,Medium,Good,Yes,2487,3024,2021,Dealer,22.695436,75.837111
+PV0008,4327701,SYN,MR 10,Apartment,1347,1347,3,5-10 years,North,Yes,Yes,No,Medium,Good,No,2604,2857,2017,Dealer,22.769579,75.901527
+PV0009,2129749,SYN,Bicholi Hapsi,Independent House,831,831,1,0-5 years,South,Yes,No,No,Medium,Good,No,2087,2152,2021,Owner,22.786637,75.942253
+PV0010,4804388,SYN,Niranjanpur,Apartment,1521,1521,3,5-10 years,West,No,Yes,No,Low,Average,Yes,2533,3088,2015,Owner,22.759873,75.915653
+PV0011,12071195,SYN,Scheme 54,Apartment,2334,2334,4,0-5 years,East,No,Yes,Yes,Medium,Average,No,2932,4122,2023,Dealer,22.72981,75.867796
+PV0012,5570654,SYN,Nipania,Builder Floor,1502,1502,3,5-10 years,North,No,No,Yes,High,Good,No,2664,3534,2016,Dealer,22.755373,75.922924
+PV0013,2188081,SYN,Bicholi Mardana,Apartment,949,949,2,0-5 years,South-West,No,No,No,Medium,Average,No,2239,2438,2024,Owner,22.782632,75.92788
+PV0014,6899631,SYN,Scheme 54,Independent House,1248,1248,2,0-5 years,West,Yes,Yes,Yes,Medium,Good,No,2894,4183,2022,Owner,22.732742,75.872104
+PV0015,4374430,SYN,Super Corridor,Independent House,1442,1442,2,5-10 years,West,Yes,No,Yes,High,Average,Yes,2451,2598,2016,Dealer,22.787341,75.898648
+PV0016,2862356,SYN,Rajendra Nagar,Builder Floor,1022,1022,2,10-20 years,West,Yes,Yes,Yes,Low,Average,Yes,2544,3189,2014,Owner,22.707387,75.868512
+PV0017,2322890,SYN,Aerodrome Road,Apartment,640,640,1,0-5 years,South,Yes,Yes,Yes,Low,Average,No,2854,3536,2021,Dealer,22.724887,75.797879
+PV0018,6556005,SYN,Rajendra Nagar,Independent House,1693,1693,3,5-10 years,North-West,No,Yes,Yes,Low,Average,No,2595,3356,2015,Dealer,22.707846,75.865055
+PV0019,2174518,SYN,Annapurna,Apartment,864,864,2,20+ years,North-East,No,No,Yes,High,Average,No,2307,2613,2003,Dealer,22.68218,75.864256
+PV0020,3560720,SYN,Pipliyahana,Builder Floor,1444,1444,3,10-20 years,North,Yes,Yes,Yes,Medium,Average,Yes,2439,2901,2012,Owner,22.696879,75.919558
+PV0021,1777036,SYN,Kanadiya,Apartment,1091,1091,2,20+ years,West,No,No,No,Medium,Average,No,1965,2021,1994,Owner,22.800605,75.889958
+PV0022,4380188,SYN,Pipliyahana,Independent House,1623,1623,3,10-20 years,South-East,No,No,No,Medium,Good,Yes,2553,2933,2010,Owner,22.69665,75.921782
+PV0023,5627627,SYN,Bicholi Mardana,Independent House,2138,2138,3,5-10 years,South-East,No,No,No,Low,Poor,Yes,2236,2275,2018,Dealer,22.782025,75.927425
+PV0024,1612759,SYN,Rau,Apartment,861,861,2,5-10 years,South-West,Yes,No,Yes,Medium,Poor,Yes,1817,1860,2018,Owner,22.649649,75.808313
+PV0025,5343483,SYN,Bhawarkuan,Builder Floor,1715,1715,4,5-10 years,East,Yes,No,Yes,Low,Good,No,2542,3062,2016,Dealer,22.698662,75.843425
+PV0026,7238536,SYN,Vijay Nagar,Apartment,1469,1469,3,0-5 years,East,Yes,Yes,Yes,Low,Good,No,3210,4354,2024,Dealer,22.745067,75.900606
+PV0027,4335554,SYN,Aerodrome Road,Apartment,1304,1304,3,10-20 years,West,Yes,Yes,Yes,Medium,Excellent,No,2783,3592,2013,Dealer,22.724815,75.800363
+PV0028,1188792,SYN,Bicholi Mardana,Builder Floor,580,580,1,20+ years,East,Yes,No,No,Medium,Poor,No,2179,2361,1997,Dealer,22.778526,75.927097
+PV0029,2582507,SYN,Limbodi,Independent House,1344,1344,2,10-20 years,East,No,No,No,High,Average,Yes,1943,1973,2006,Dealer,22.820287,75.912059
+PV0030,3103254,SYN,Tilak Nagar,Apartment,916,916,2,0-5 years,North,Yes,Yes,No,Medium,Average,Yes,2371,2792,2022,Dealer,22.720874,75.867988
+PV0031,18604859,SYN,AB Road,Villa,3441,3441,4,5-10 years,East,No,Yes,Yes,Low,Good,No,3172,4026,2019,Dealer,22.72078,75.910122
+PV0032,5352799,SYN,Scheme 54,Apartment,1180,1180,3,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,2946,3937,2016,Dealer,22.727731,75.869854
+PV0033,3509058,SYN,Tilak Nagar,Independent House,1685,1685,3,20+ years,South-West,No,No,No,Low,Poor,No,2348,2665,1994,Dealer,22.719562,75.864633
+PV0034,5370867,SYN,Rajendra Nagar,Villa,1518,1518,2,5-10 years,North,Yes,No,Yes,High,Excellent,Yes,2629,2876,2016,Dealer,22.708337,75.863842
+PV0035,7148420,SYN,Vijay Nagar,Independent House,1464,1464,2,5-10 years,North,No,Yes,Yes,Low,Good,No,3140,4138,2015,Dealer,22.74749,75.901387
+PV0036,6640366,SYN,Vijay Nagar,Apartment,1535,1535,3,0-5 years,South,No,Yes,Yes,Low,Excellent,No,3193,4317,2023,Owner,22.741937,75.904743
+PV0037,1917186,SYN,LIG Colony,Plot,1092,1092,0,5-10 years,West,No,Yes,Yes,High,Good,Yes,2183,2233,2018,Dealer,22.728615,75.852414
+PV0038,3219699,SYN,Rajendra Nagar,Apartment,888,888,2,0-5 years,East,No,Yes,No,High,Poor,Yes,2613,3193,2020,Dealer,22.705473,75.863196
+PV0039,6787525,SYN,Silicon City,Independent House,2507,2507,4,5-10 years,North,No,No,No,Medium,Poor,No,2333,2376,2019,Dealer,22.73742,75.881502
+PV0040,4784656,SYN,Limbodi,Apartment,2129,2129,4,5-10 years,North-East,No,No,Yes,Medium,Good,No,1876,2082,2015,Owner,22.818714,75.912205
+PV0041,11494254,SYN,Palasia,Apartment,2174,2174,4,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,3573,4856,2017,Owner,22.722756,75.880835
+PV0042,3853254,SYN,Aerodrome Road,Apartment,943,943,2,0-5 years,North,Yes,Yes,Yes,Low,Good,No,2832,3587,2020,Dealer,22.721282,75.80256
+PV0043,25143247,SYN,AB Road,Villa,4258,4258,4,0-5 years,South-East,Yes,Yes,Yes,Low,Excellent,No,3114,4314,2022,Dealer,22.722846,75.909483
+PV0044,4311022,SYN,Super Corridor,Villa,1352,1352,2,10-20 years,South,Yes,No,No,Medium,Average,No,2452,2540,2011,Owner,22.790459,75.902767
+PV0045,2666337,SYN,Tilak Nagar,Apartment,1039,1039,2,10-20 years,East,Yes,No,Yes,Low,Average,No,2451,2566,2010,Dealer,22.721126,75.86875
+PV0046,2861499,SYN,Pipliyahana,Apartment,968,968,2,5-10 years,North,Yes,Yes,Yes,Low,Good,No,2498,2874,2015,Owner,22.696992,75.919237
+PV0047,2512154,SYN,Mahalaxmi Nagar,Apartment,920,920,2,20+ years,East,No,No,Yes,Medium,Excellent,Yes,2520,3164,1999,Dealer,22.70921,75.860754
+PV0048,3238546,SYN,Tilak Nagar,Apartment,965,965,2,0-5 years,East,Yes,No,Yes,Medium,Poor,Yes,2385,2762,2024,Dealer,22.721401,75.867389
+PV0049,2652347,SYN,Annapurna,Apartment,1059,1059,2,10-20 years,East,No,Yes,Yes,Medium,Good,Yes,2294,2357,2010,Owner,22.68379,75.865445
+PV0050,2654617,SYN,Pipliyahana,Independent House,821,821,1,5-10 years,North-West,Yes,Yes,Yes,Medium,Good,No,2497,2890,2015,Owner,22.695655,75.917414
+PV0051,2294496,SYN,Aerodrome Road,Apartment,638,638,1,5-10 years,East,No,Yes,Yes,Low,Good,No,2746,3517,2018,Dealer,22.719423,75.800658
+PV0052,7948141,SYN,Scheme 54,Apartment,2254,2254,4,10-20 years,West,Yes,Yes,Yes,Low,Average,No,2944,3768,2010,Dealer,22.7279,75.86817
+PV0053,3018195,SYN,Banganga,Apartment,1175,1175,3,0-5 years,North,Yes,No,Yes,Medium,Poor,Yes,2124,2252,2023,Owner,22.711885,75.830746
+PV0054,4928871,SYN,Nipania,Apartment,1311,1311,3,0-5 years,West,No,No,Yes,Low,Poor,No,2652,3219,2022,Owner,22.754428,75.923527
+PV0055,2710392,SYN,Super Corridor,Apartment,887,887,2,5-10 years,North,Yes,No,Yes,Medium,Average,No,2340,2908,2018,Dealer,22.79149,75.902528
+PV0056,1933081,SYN,Bhawarkuan,Builder Floor,589,589,1,0-5 years,North-East,No,No,Yes,Medium,Poor,No,2460,3074,2024,Dealer,22.692486,75.839714
+PV0057,6074478,SYN,Niranjanpur,Builder Floor,1530,1530,3,0-5 years,North,No,Yes,Yes,High,Poor,Yes,2657,3345,2022,Owner,22.762646,75.918801
+PV0058,2267083,SYN,Super Corridor,Independent House,819,819,1,10-20 years,East,No,No,No,Low,Excellent,No,2465,2792,2005,Dealer,22.788882,75.900862
+PV0059,11782257,SYN,AB Road,Villa,2215,2215,3,0-5 years,West,Yes,Yes,Yes,Low,Excellent,Yes,3102,3824,2021,Dealer,22.724445,75.91252
+PV0060,12009173,SYN,AB Road,Apartment,2742,2742,4,0-5 years,South-East,Yes,Yes,No,Medium,Good,No,3143,3821,2021,Dealer,22.722485,75.909066
+PV0061,2489645,SYN,MR 10,Builder Floor,859,859,2,5-10 years,East,Yes,Yes,Yes,Low,Good,Yes,2666,3006,2018,Owner,22.768485,75.902874
+PV0062,3573646,SYN,Rau,Builder Floor,1705,1705,3,5-10 years,East,Yes,Yes,No,Medium,Average,No,1761,2007,2019,Dealer,22.647209,75.812709
+PV0063,3307891,SYN,Kanadiya,Apartment,1300,1300,3,0-5 years,East,No,No,Yes,Medium,Average,Yes,1980,2243,2022,Owner,22.799653,75.890004
+PV0064,4647861,SYN,Nipania,Builder Floor,1229,1229,3,10-20 years,North-East,Yes,No,No,Low,Average,Yes,2768,3593,2014,Dealer,22.754365,75.923399
+PV0065,12886655,SYN,Aerodrome Road,Villa,2815,2815,3,0-5 years,South,Yes,No,Yes,Medium,Good,No,2871,3609,2020,Dealer,22.718794,75.800242
+PV0066,7442210,SYN,Mahalaxmi Nagar,Independent House,2118,2118,3,5-10 years,East,Yes,No,No,Medium,Excellent,No,2520,3205,2019,Owner,22.712096,75.85856
+PV0067,5123689,SYN,Vijay Nagar,Apartment,1254,1254,3,10-20 years,North,Yes,Yes,Yes,Medium,Good,No,3123,4398,2005,Owner,22.744467,75.901592
+PV0068,4669301,SYN,Silicon City,Independent House,2118,2118,3,20+ years,West,No,No,No,Medium,Good,No,2321,2422,1993,Owner,22.738804,75.883269
+PV0069,3790951,SYN,Bhawarkuan,Builder Floor,1213,1213,3,5-10 years,North,Yes,No,Yes,High,Good,Yes,2530,2903,2015,Dealer,22.694106,75.840741
+PV0070,5079437,SYN,Scheme 54,Apartment,1374,1374,3,10-20 years,North-West,Yes,Yes,Yes,Medium,Poor,No,2896,3524,2007,Owner,22.732103,75.866724
+PV0071,2449873,SYN,Pardesipura,Builder Floor,1039,1039,2,10-20 years,North,Yes,Yes,Yes,Medium,Average,No,2243,2468,2014,Dealer,22.768757,75.875322
+PV0072,8458051,SYN,AB Road,Apartment,1691,1691,3,0-5 years,West,Yes,Yes,Yes,Low,Good,No,3035,4257,2022,Dealer,22.720054,75.914459
+PV0073,3409104,SYN,Silicon City,Independent House,1215,1215,2,5-10 years,West,No,No,No,High,Good,No,2270,2392,2019,Owner,22.738926,75.876559
+PV0074,12107890,SYN,Vijay Nagar,Apartment,2608,2608,4,0-5 years,South,Yes,Yes,Yes,Medium,Good,No,3216,4285,2024,Dealer,22.748716,75.899112
+PV0075,7712396,SYN,Vijay Nagar,Apartment,1378,1378,3,5-10 years,South-West,Yes,Yes,Yes,Low,Good,No,3263,4941,2016,Dealer,22.746899,75.899309
+PV0076,8503278,SYN,AB Road,Apartment,2289,2289,4,10-20 years,West,Yes,No,Yes,Medium,Good,No,3033,4038,2013,Owner,22.719005,75.913738
+PV0077,5081848,SYN,Bhawarkuan,Apartment,1489,1489,3,0-5 years,South-West,Yes,Yes,Yes,Medium,Good,Yes,2515,3170,2024,Dealer,22.693668,75.840604
+PV0078,2637563,SYN,MR 10,Apartment,907,907,2,10-20 years,South-West,Yes,No,Yes,High,Average,No,2662,3160,2009,Dealer,22.771391,75.904896
+PV0079,5577569,SYN,Tilak Nagar,Independent House,2016,2016,3,10-20 years,West,No,No,Yes,Medium,Average,Yes,2397,2525,2011,Owner,22.723651,75.865063
+PV0080,6587183,SYN,Tilak Nagar,Villa,2341,2341,3,10-20 years,West,No,No,Yes,Medium,Excellent,No,2333,2868,2011,Dealer,22.71739,75.862849
+PV0081,4705812,SYN,Mahalaxmi Nagar,Independent House,1764,1764,3,20+ years,West,Yes,Yes,No,Low,Average,No,2445,2856,2000,Owner,22.710231,75.858851
+PV0082,6138736,SYN,Palasia,Apartment,1074,1074,2,0-5 years,East,Yes,Yes,Yes,Low,Good,No,3557,5068,2024,Dealer,22.727516,75.880469
+PV0083,5014381,SYN,Scheme 54,Apartment,1013,1013,2,0-5 years,East,Yes,Yes,Yes,Low,Good,No,2896,4333,2021,Dealer,22.729311,75.866812
+PV0084,4775434,SYN,Scheme 54,Apartment,1077,1077,2,5-10 years,North-West,Yes,Yes,Yes,Medium,Excellent,No,2968,3951,2017,Owner,22.728071,75.867945
+PV0085,4249841,SYN,Pipliyahana,Apartment,1470,1470,3,5-10 years,East,Yes,No,Yes,High,Good,Yes,2499,2774,2016,Dealer,22.695454,75.917321
+PV0086,2853085,SYN,Silicon City,Plot,1211,1211,0,0-5 years,North,No,No,No,Low,Average,Yes,2342,2587,2024,Dealer,22.742524,75.877407
+PV0087,2878050,SYN,Silicon City,Independent House,767,767,1,0-5 years,East,Yes,No,Yes,High,Average,No,2363,2790,2022,Dealer,22.740652,75.880582
+PV0088,7111503,SYN,Aerodrome Road,Apartment,1653,1653,3,5-10 years,North,Yes,Yes,Yes,Low,Average,Yes,2827,3873,2018,Dealer,22.721511,75.804371
+PV0089,1871451,SYN,Bhawarkuan,Builder Floor,658,658,1,20+ years,West,No,Yes,Yes,High,Good,Yes,2551,3374,1992,Dealer,22.697124,75.840555
+PV0090,5618781,SYN,Scheme 54,Apartment,1249,1249,3,5-10 years,North-East,Yes,Yes,Yes,Low,Good,No,2955,3824,2015,Dealer,22.729679,75.866956
+PV0091,1242285,SYN,Kanadiya,Apartment,570,570,1,20+ years,North,No,No,No,Medium,Good,Yes,2003,2294,1991,Dealer,22.798041,75.893356
+PV0092,2827231,SYN,Sudama Nagar,Plot,1379,1379,0,5-10 years,East,No,No,Yes,Medium,Good,Yes,2213,2373,2015,Owner,22.688902,75.842899
+PV0093,4403929,SYN,Nipania,Apartment,1280,1280,3,10-20 years,West,Yes,Yes,No,Low,Excellent,No,2664,3370,2008,Dealer,22.755808,75.920266
+PV0094,7333938,SYN,Rajendra Nagar,Apartment,2168,2168,4,5-10 years,West,Yes,No,Yes,Low,Average,Yes,2559,3082,2017,Owner,22.702852,75.864504
+PV0095,2438778,SYN,Bicholi Mardana,Plot,1209,1209,0,5-10 years,North-West,No,No,Yes,Medium,Average,No,2155,2301,2017,Owner,22.779811,75.931618
+PV0096,1727319,SYN,Annapurna,Builder Floor,875,875,2,20+ years,North,Yes,No,Yes,High,Average,No,2364,2468,1998,Owner,22.685769,75.863891
+PV0097,5219264,SYN,Sudama Nagar,Builder Floor,2147,2147,4,5-10 years,South-West,Yes,No,Yes,Medium,Poor,No,2235,2337,2019,Dealer,22.686516,75.839976
+PV0098,2710473,SYN,Limbodi,Apartment,1149,1149,2,0-5 years,North,Yes,Yes,No,High,Good,Yes,1906,1992,2023,Dealer,22.819905,75.909365
+PV0099,10700412,SYN,Vijay Nagar,Independent House,2030,2030,3,5-10 years,South,Yes,Yes,Yes,Low,Good,Yes,3175,4638,2015,Owner,22.742412,75.901509
+PV0100,3591703,SYN,Limbodi,Apartment,1453,1453,3,0-5 years,East,No,No,Yes,Medium,Poor,No,1876,2130,2020,Dealer,22.820493,75.912218
+PV0101,4981646,SYN,Palasia,Builder Floor,896,896,2,0-5 years,North,Yes,Yes,Yes,Medium,Excellent,No,3564,5313,2024,Owner,22.72697,75.884042
+PV0102,2725987,SYN,Mahalaxmi Nagar,Apartment,977,977,2,5-10 years,South,Yes,Yes,Yes,Medium,Good,Yes,2536,2728,2017,Owner,22.711902,75.857215
+PV0103,7039607,SYN,Scheme 54,Builder Floor,1822,1822,4,10-20 years,North,Yes,No,Yes,High,Good,No,2964,3812,2013,Dealer,22.731907,75.869003
+PV0104,21840881,SYN,Palasia,Villa,2733,2733,3,0-5 years,East,Yes,Yes,Yes,Low,Excellent,No,3518,5514,2022,Dealer,22.721639,75.882987
+PV0105,6340826,SYN,Scheme 54,Apartment,1401,1401,3,0-5 years,North,Yes,Yes,Yes,Low,Poor,Yes,2971,3930,2022,Owner,22.729255,75.873102
+PV0106,5360359,SYN,AB Road,Apartment,1387,1387,3,5-10 years,West,Yes,Yes,No,Low,Excellent,Yes,3018,4057,2019,Dealer,22.720566,75.915892
+PV0107,6668026,SYN,Bhawarkuan,Independent House,1996,1996,3,5-10 years,South,Yes,No,No,Medium,Excellent,No,2434,2801,2016,Dealer,22.694458,75.840289
+PV0108,3836452,SYN,Bicholi Hapsi,Apartment,1425,1425,3,5-10 years,North,No,No,No,Medium,Average,No,2099,2380,2015,Dealer,22.78766,75.937161
+PV0109,3617197,SYN,AB Road,Apartment,832,832,2,5-10 years,South-West,Yes,Yes,Yes,High,Good,Yes,3024,3912,2015,Dealer,22.719083,75.911059
+PV0110,4166512,SYN,Bhawarkuan,Apartment,1203,1203,3,10-20 years,North,No,Yes,Yes,Medium,Good,No,2458,3368,2008,Dealer,22.694169,75.836949
+PV0111,6948255,SYN,Mahalaxmi Nagar,Builder Floor,2775,2775,4,20+ years,West,Yes,Yes,Yes,High,Average,No,2444,2901,1996,Owner,22.710025,75.862385
+PV0112,3719957,SYN,Pipliyahana,Villa,987,987,1,10-20 years,East,No,No,Yes,Low,Good,No,2482,3042,2008,Owner,22.698725,75.920636
+PV0113,5112833,SYN,Scheme 54,Apartment,1234,1234,3,5-10 years,North-East,Yes,No,Yes,Low,Poor,No,2976,3775,2019,Dealer,22.730801,75.866823
+PV0114,12723491,SYN,Vijay Nagar,Builder Floor,2469,2469,4,0-5 years,East,Yes,Yes,Yes,Low,Poor,No,3185,4436,2024,Dealer,22.743935,75.905378
+PV0115,1857944,SYN,Rau,Apartment,860,860,2,10-20 years,North,Yes,No,No,High,Average,Yes,1808,2110,2011,Owner,22.648957,75.809719
+PV0116,5142475,SYN,Scheme 54,Apartment,1492,1492,3,5-10 years,South-West,Yes,Yes,Yes,Low,Excellent,No,2914,3641,2017,Owner,22.727726,75.868428
+PV0117,4038611,SYN,Pipliyahana,Builder Floor,1479,1479,3,10-20 years,East,Yes,Yes,Yes,Low,Average,No,2502,2746,2006,Dealer,22.697149,75.917351
+PV0118,2194749,SYN,Bicholi Hapsi,Builder Floor,926,926,2,5-10 years,East,Yes,Yes,Yes,High,Average,No,2143,2279,2018,Dealer,22.788783,75.936612
+PV0119,7641293,SYN,AB Road,Apartment,1311,1311,3,5-10 years,South-East,Yes,Yes,Yes,Low,Excellent,No,3073,4368,2015,Dealer,22.717844,75.914974
+PV0120,12326805,SYN,Aerodrome Road,Villa,2837,2837,3,5-10 years,South,Yes,Yes,Yes,Low,Excellent,No,2773,3353,2016,Owner,22.723718,75.803382
+PV0121,2715526,SYN,Super Corridor,Independent House,745,745,1,0-5 years,North-East,Yes,Yes,No,Medium,Good,No,2356,2843,2024,Owner,22.789899,75.898898
+PV0122,3744669,SYN,Rajendra Nagar,Apartment,951,951,2,0-5 years,North,Yes,No,Yes,Medium,Good,No,2633,3201,2023,Owner,22.70744,75.866171
+PV0123,8567412,SYN,Palasia,Apartment,1427,1427,3,5-10 years,South,Yes,No,Yes,Medium,Good,No,3446,5583,2017,Owner,22.727704,75.881967
+PV0124,2247741,SYN,Sudama Nagar,Independent House,785,785,1,5-10 years,East,No,No,Yes,Medium,Poor,Yes,2199,2413,2019,Owner,22.688319,75.83742
+PV0125,10345856,SYN,AB Road,Builder Floor,2116,2116,4,0-5 years,North-West,No,Yes,Yes,Low,Good,No,3030,4301,2023,Owner,22.721418,75.911634
+PV0126,3403666,SYN,Aerodrome Road,Apartment,1021,1021,2,10-20 years,North-West,Yes,No,Yes,Low,Poor,No,2781,3619,2005,Dealer,22.720779,75.801179
+PV0127,1306486,SYN,Tilak Nagar,Builder Floor,484,484,1,0-5 years,East,No,Yes,Yes,Medium,Average,No,2378,2568,2023,Owner,22.719844,75.864788
+PV0128,5536551,SYN,Vijay Nagar,Apartment,1118,1118,2,0-5 years,East,Yes,Yes,Yes,Low,Good,No,3153,4340,2024,Dealer,22.74552,75.899773
+PV0129,7054355,SYN,Aerodrome Road,Apartment,1543,1543,3,5-10 years,South,No,Yes,Yes,Low,Good,No,2729,3893,2017,Dealer,22.71836,75.80401
+PV0130,5249029,SYN,Kanadiya,Independent House,1890,1890,3,5-10 years,North,Yes,No,No,High,Good,No,2020,2333,2017,Dealer,22.802265,75.891453
+PV0131,3660615,SYN,Banganga,Independent House,1282,1282,2,0-5 years,West,Yes,Yes,No,Medium,Good,Yes,2099,2384,2022,Dealer,22.710621,75.827488
+PV0132,6751904,SYN,Nipania,Builder Floor,1643,1643,3,0-5 years,East,Yes,Yes,No,Medium,Excellent,Yes,2654,3363,2022,Dealer,22.755077,75.919707
+PV0133,8922517,SYN,Scheme 54,Apartment,2227,2227,4,5-10 years,South,Yes,No,Yes,Low,Good,Yes,2872,3884,2017,Owner,22.732679,75.870208
+PV0134,2996141,SYN,LIG Colony,Apartment,1318,1318,3,10-20 years,North,Yes,No,Yes,Low,Average,No,2257,2250,2007,Dealer,22.728459,75.852358
+PV0135,5892152,SYN,Nipania,Apartment,1578,1578,3,0-5 years,West,Yes,Yes,Yes,Low,Excellent,Yes,2768,3248,2021,Dealer,22.75719,75.922227
+PV0136,2208280,SYN,Pipliyahana,Independent House,683,683,1,0-5 years,North,Yes,No,Yes,Low,Average,No,2462,2669,2023,Owner,22.700236,75.923281
+PV0137,1685076,SYN,Limbodi,Builder Floor,977,977,2,10-20 years,North,Yes,No,Yes,Medium,Excellent,No,1943,1988,2011,Owner,22.817953,75.907082
+PV0138,3721044,SYN,Super Corridor,Villa,907,907,1,0-5 years,North,Yes,Yes,No,Medium,Poor,Yes,2469,2872,2023,Dealer,22.790222,75.898318
+PV0139,1504133,SYN,Kanadiya,Independent House,687,687,1,5-10 years,South-West,No,No,Yes,High,Average,Yes,1951,2073,2017,Dealer,22.797753,75.892623
+PV0140,3148866,SYN,Mahalaxmi Nagar,Apartment,935,935,2,5-10 years,North,No,Yes,Yes,Low,Good,No,2453,3024,2017,Owner,22.713692,75.861137
+PV0141,10216001,SYN,AB Road,Villa,1841,1841,2,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,3051,4145,2017,Owner,22.721391,75.910314
+PV0142,2009482,SYN,Pipliyahana,Apartment,847,847,2,20+ years,East,Yes,No,Yes,Low,Excellent,No,2506,2839,1996,Owner,22.700655,75.919719
+PV0143,4331009,SYN,MR 10,Builder Floor,1365,1365,3,0-5 years,North,No,No,No,High,Average,Yes,2573,2894,2020,Dealer,22.766646,75.905519
+PV0144,8564503,SYN,AB Road,Independent House,1953,1953,3,5-10 years,South-East,Yes,Yes,Yes,Low,Good,Yes,3148,4125,2018,Owner,22.722753,75.912342
+PV0145,5685140,SYN,Vijay Nagar,Apartment,1489,1489,3,20+ years,South-East,Yes,Yes,Yes,Low,Good,No,3151,4433,1993,Dealer,22.746037,75.898448
+PV0146,3009890,SYN,Niranjanpur,Apartment,946,946,2,0-5 years,East,Yes,No,No,Medium,Average,No,2580,2864,2022,Dealer,22.76254,75.917527
+PV0147,5114542,SYN,Scheme 54,Apartment,1440,1440,3,10-20 years,South,Yes,No,Yes,Low,Poor,No,2848,3691,2006,Owner,22.732419,75.867869
+PV0148,4760054,SYN,Super Corridor,Apartment,1475,1475,3,0-5 years,North,Yes,No,Yes,Low,Good,Yes,2416,2549,2021,Dealer,22.791223,75.898442
+PV0149,2429133,SYN,Kanadiya,Apartment,1198,1198,3,5-10 years,West,No,No,No,Low,Good,Yes,1983,2036,2018,Dealer,22.798098,75.892683
+PV0150,3356171,SYN,Pardesipura,Villa,1014,1014,1,0-5 years,North,Yes,Yes,No,Medium,Excellent,No,2232,2573,2022,Dealer,22.764,75.874297
+PV0151,2071049,SYN,Kanadiya,Apartment,969,969,2,0-5 years,South-West,No,Yes,Yes,Medium,Poor,Yes,1961,2002,2021,Owner,22.802641,75.894862
+PV0152,10542314,SYN,Vijay Nagar,Independent House,1990,1990,3,0-5 years,South,Yes,Yes,Yes,Low,Excellent,No,3144,4355,2020,Owner,22.747051,75.899574
+PV0153,1616567,SYN,Rau,Apartment,953,953,2,20+ years,East,No,No,Yes,Medium,Average,No,1752,1859,1994,Dealer,22.652514,75.807392
+PV0154,5274820,SYN,Bicholi Hapsi,Independent House,2070,2070,3,0-5 years,North,No,Yes,No,Medium,Average,No,2098,2281,2024,Owner,22.788436,75.936768
+PV0155,4325783,SYN,Pipliyahana,Apartment,1658,1658,3,20+ years,East,Yes,Yes,Yes,Low,Average,No,2574,2979,2000,Dealer,22.698338,75.922513
+PV0156,4477223,SYN,Tilak Nagar,Independent House,1552,1552,2,0-5 years,West,Yes,Yes,No,Low,Average,Yes,2409,2639,2021,Owner,22.716777,75.866093
+PV0157,1428173,SYN,Silicon City,Apartment,551,551,1,5-10 years,North,No,Yes,No,High,Average,No,2248,2450,2017,Owner,22.743364,75.877639
+PV0158,2570681,SYN,Limbodi,Builder Floor,1000,1000,2,0-5 years,East,No,Yes,Yes,Medium,Good,Yes,1925,2138,2024,Dealer,22.823428,75.913642
+PV0159,4852647,SYN,Pipliyahana,Apartment,1615,1615,3,5-10 years,North,No,Yes,Yes,Low,Good,No,2532,2828,2015,Dealer,22.698295,75.92018
+PV0160,3419826,SYN,Banganga,Apartment,1320,1320,3,5-10 years,North,No,No,No,High,Excellent,Yes,2143,2358,2015,Owner,22.7098,75.831832
+PV0161,3356919,SYN,Aerodrome Road,Apartment,806,806,2,0-5 years,East,Yes,Yes,Yes,Low,Excellent,Yes,2857,3608,2023,Owner,22.722626,75.798564
+PV0162,2600709,SYN,Annapurna,Plot,1177,1177,0,0-5 years,East,Yes,No,No,High,Poor,Yes,2261,2421,2021,Dealer,22.683072,75.862973
+PV0163,6612981,SYN,Super Corridor,Apartment,2751,2751,4,20+ years,South-West,Yes,No,Yes,Low,Average,Yes,2467,2742,1992,Owner,22.788027,75.904301
+PV0164,3943541,SYN,Super Corridor,Builder Floor,1356,1356,3,5-10 years,North-West,Yes,No,Yes,Medium,Good,Yes,2391,2801,2017,Dealer,22.790468,75.902331
+PV0165,2901866,SYN,Rajendra Nagar,Builder Floor,1033,1033,2,20+ years,East,No,Yes,Yes,Medium,Excellent,No,2639,3282,1993,Owner,22.705283,75.868331
+PV0166,3725359,SYN,Scheme 54,Apartment,1068,1068,2,5-10 years,East,Yes,Yes,Yes,Medium,Average,No,2975,3620,2017,Owner,22.728611,75.873389
+PV0167,11909276,SYN,Palasia,Independent House,1814,1814,3,5-10 years,North-East,Yes,No,Yes,Low,Excellent,No,3556,5443,2019,Dealer,22.726626,75.884703
+PV0168,4854014,SYN,Bhawarkuan,Independent House,1658,1658,3,20+ years,South,Yes,No,Yes,Medium,Good,Yes,2461,3120,2001,Dealer,22.692228,75.839185
+PV0169,3277218,SYN,Rajendra Nagar,Villa,1052,1052,1,10-20 years,South,Yes,No,Yes,Medium,Good,Yes,2665,3268,2014,Owner,22.705777,75.868045
+PV0170,4484942,SYN,Niranjanpur,Apartment,1230,1230,3,0-5 years,South,No,No,Yes,Medium,Average,No,2525,3076,2020,Dealer,22.757099,75.912824
+PV0171,9859333,SYN,Nipania,Apartment,2673,2673,4,0-5 years,South-West,Yes,No,No,Low,Average,No,2713,3451,2023,Owner,22.755544,75.919411
+PV0172,2389113,SYN,Sudama Nagar,Apartment,953,953,2,10-20 years,North-East,No,No,No,High,Average,Yes,2193,2394,2014,Owner,22.689342,75.836527
+PV0173,9497162,SYN,Palasia,Apartment,1493,1493,3,0-5 years,South,Yes,Yes,Yes,Low,Good,No,3408,5265,2021,Dealer,22.72746,75.881132
+PV0174,5010028,SYN,Rajendra Nagar,Apartment,1326,1326,3,0-5 years,East,Yes,Yes,No,Low,Excellent,No,2587,3349,2024,Owner,22.705559,75.862721
+PV0175,10845951,SYN,AB Road,Independent House,1900,1900,3,0-5 years,East,Yes,No,Yes,Low,Excellent,No,3024,4370,2022,Owner,22.721814,75.914634
+PV0176,3047580,SYN,Kanadiya,Builder Floor,1372,1372,3,5-10 years,South-East,No,No,Yes,High,Average,No,1997,2372,2016,Owner,22.803985,75.894805
+PV0177,11130633,SYN,Vijay Nagar,Villa,2045,2045,3,0-5 years,South-West,Yes,Yes,Yes,Medium,Average,No,3159,4049,2020,Dealer,22.742912,75.901872
+PV0178,2726533,SYN,Rau,Apartment,1464,1464,3,5-10 years,East,No,Yes,No,Medium,Average,Yes,1792,1813,2015,Owner,22.64838,75.808267
+PV0179,4419372,SYN,Bicholi Mardana,Apartment,1794,1794,4,10-20 years,North-West,No,No,Yes,Medium,Average,No,2251,2576,2012,Owner,22.780613,75.930915
+PV0180,3378221,SYN,Tilak Nagar,Apartment,1229,1229,3,10-20 years,West,Yes,No,No,Medium,Average,Yes,2375,2741,2014,Dealer,22.723218,75.862807
+PV0181,3109848,SYN,Banganga,Apartment,1152,1152,3,0-5 years,North-East,Yes,No,No,Low,Poor,Yes,2137,2425,2023,Dealer,22.70951,75.829292
+PV0182,7715459,SYN,Pipliyahana,Apartment,2305,2305,4,0-5 years,East,Yes,No,No,High,Average,No,2457,2779,2023,Owner,22.697426,75.921361
+PV0183,5421021,SYN,AB Road,Apartment,1103,1103,2,0-5 years,East,Yes,Yes,No,Low,Good,No,3055,4367,2021,Dealer,22.722032,75.91527
+PV0184,1894115,SYN,Sudama Nagar,Independent House,641,641,1,5-10 years,North,No,No,No,Medium,Average,No,2145,2484,2019,Dealer,22.687336,75.837475
+PV0185,5310047,SYN,LIG Colony,Independent House,1833,1833,3,0-5 years,East,No,Yes,No,Medium,Poor,Yes,2228,2434,2024,Dealer,22.727476,75.848566
+PV0186,3566242,SYN,Scheme 54,Apartment,795,795,2,0-5 years,North-East,Yes,No,Yes,Low,Average,No,2881,3935,2022,Dealer,22.728408,75.870176
+PV0187,3023573,SYN,Tilak Nagar,Apartment,1010,1010,2,0-5 years,East,Yes,No,Yes,Medium,Excellent,No,2456,2523,2023,Owner,22.721977,75.866647
+PV0188,2765892,SYN,Bicholi Mardana,Apartment,978,978,2,0-5 years,East,No,Yes,No,Medium,Average,No,2237,2359,2023,Owner,22.782752,75.927437
+PV0189,4063018,SYN,Mahalaxmi Nagar,Independent House,1703,1703,3,20+ years,East,No,Yes,Yes,Low,Poor,No,2438,3039,2001,Owner,22.713361,75.857064
+PV0190,3872101,SYN,Annapurna,Builder Floor,1201,1201,3,0-5 years,North-East,No,Yes,Yes,High,Good,No,2343,2595,2020,Dealer,22.685117,75.866019
+PV0191,3797214,SYN,Niranjanpur,Apartment,1258,1258,3,10-20 years,East,Yes,Yes,Yes,Medium,Good,Yes,2629,3251,2007,Dealer,22.758115,75.91869
+PV0192,4940924,SYN,Mahalaxmi Nagar,Apartment,1472,1472,3,5-10 years,West,Yes,Yes,Yes,Medium,Excellent,No,2533,2977,2017,Dealer,22.709655,75.85701
+PV0193,9356140,SYN,Aerodrome Road,Independent House,2195,2195,3,0-5 years,East,No,No,Yes,Medium,Excellent,No,2786,3718,2023,Owner,22.724272,75.804518
+PV0194,3874676,SYN,Tilak Nagar,Apartment,1324,1324,3,0-5 years,North,Yes,No,No,Medium,Poor,Yes,2358,2630,2023,Owner,22.723126,75.867363
+PV0195,4609604,SYN,Tilak Nagar,Apartment,1554,1554,3,0-5 years,North,Yes,Yes,No,Medium,Good,Yes,2457,2555,2021,Dealer,22.721464,75.86418
+PV0196,6280062,SYN,Scheme 54,Apartment,1481,1481,3,0-5 years,West,Yes,Yes,Yes,Low,Good,Yes,2908,3484,2023,Dealer,22.728634,75.873444
+PV0197,2601710,SYN,Kanadiya,Builder Floor,1064,1064,2,0-5 years,South,Yes,Yes,No,High,Good,Yes,2015,2059,2024,Dealer,22.804349,75.893082
+PV0198,14209039,SYN,AB Road,Villa,2657,2657,3,0-5 years,West,No,Yes,Yes,Medium,Good,No,3182,4171,2024,Dealer,22.717888,75.909564
+PV0199,1931072,SYN,Silicon City,Builder Floor,653,653,1,5-10 years,North-East,No,No,Yes,High,Good,No,2353,2778,2019,Dealer,22.741423,75.881493
+PV0200,2753313,SYN,Pardesipura,Builder Floor,887,887,2,0-5 years,East,Yes,No,Yes,Low,Good,No,2289,2855,2024,Owner,22.762392,75.874741
+PV0201,8625995,SYN,Nipania,Independent House,2033,2033,3,0-5 years,South,Yes,No,No,Medium,Average,No,2670,3483,2024,Dealer,22.751653,75.918985
+PV0202,9909927,SYN,Palasia,Independent House,1493,1493,2,0-5 years,North-East,Yes,Yes,Yes,Low,Excellent,No,3577,5347,2024,Dealer,22.72591,75.883204
+PV0203,6173314,SYN,Scheme 54,Apartment,1392,1392,3,0-5 years,North,Yes,Yes,No,Low,Excellent,No,2950,4045,2022,Dealer,22.732281,75.86973
+PV0204,5252283,SYN,Pipliyahana,Apartment,1628,1628,3,5-10 years,East,Yes,No,Yes,Medium,Good,No,2443,3100,2019,Dealer,22.696972,75.918564
+PV0205,8122446,SYN,Palasia,Apartment,1738,1738,4,10-20 years,North-West,Yes,Yes,Yes,Low,Good,No,3476,4801,2013,Dealer,22.727843,75.887409
+PV0206,13740346,SYN,Vijay Nagar,Villa,2368,2368,3,0-5 years,West,Yes,Yes,No,Low,Excellent,No,3293,4907,2023,Owner,22.743974,75.905599
+PV0207,3725631,SYN,Scheme 54,Apartment,910,910,2,10-20 years,East,Yes,Yes,Yes,Low,Excellent,Yes,2892,4170,2013,Owner,22.731751,75.870641
+PV0208,3039946,SYN,LIG Colony,Independent House,1200,1200,2,10-20 years,East,No,No,Yes,Low,Excellent,Yes,2248,2248,2011,Dealer,22.727522,75.852987
+PV0209,3665337,SYN,Bhawarkuan,Apartment,1037,1037,2,0-5 years,East,Yes,Yes,Yes,Low,Good,Yes,2550,3271,2021,Owner,22.695039,75.839733
+PV0210,9721707,SYN,Niranjanpur,Villa,2454,2454,3,0-5 years,North,No,Yes,No,Low,Good,No,2532,3133,2022,Dealer,22.763666,75.913107
+PV0211,2283425,SYN,Bicholi Hapsi,Builder Floor,1005,1005,2,5-10 years,East,Yes,Yes,No,Medium,Poor,Yes,2104,2298,2016,Owner,22.788169,75.943251
+PV0212,10049982,SYN,Palasia,Apartment,1477,1477,3,0-5 years,East,Yes,Yes,Yes,Low,Excellent,Yes,3442,5308,2020,Dealer,22.724197,75.883057
+PV0213,4524572,SYN,Scheme 54,Apartment,861,861,2,0-5 years,North,Yes,No,Yes,Low,Poor,No,2938,4292,2021,Dealer,22.730791,75.86872
+PV0214,12657060,SYN,Palasia,Independent House,2104,2104,3,5-10 years,South-East,Yes,No,Yes,Medium,Good,No,3423,5446,2019,Owner,22.723077,75.885454
+PV0215,5772876,SYN,Palasia,Apartment,1013,1013,2,5-10 years,South,Yes,Yes,Yes,Low,Average,No,3441,5237,2018,Dealer,22.722674,75.882416
+PV0216,9776852,SYN,Vijay Nagar,Villa,1617,1617,2,0-5 years,East,Yes,Yes,Yes,Medium,Good,Yes,3228,4500,2024,Owner,22.747748,75.902666
+PV0217,3744257,SYN,Niranjanpur,Apartment,1419,1419,3,10-20 years,East,Yes,Yes,No,Medium,Average,No,2539,2867,2007,Dealer,22.757652,75.914653
+PV0218,10629482,SYN,AB Road,Villa,2176,2176,3,0-5 years,West,Yes,Yes,Yes,Medium,Good,Yes,3059,3783,2024,Dealer,22.724184,75.909347
+PV0219,7448221,SYN,Aerodrome Road,Apartment,2068,2068,4,5-10 years,West,Yes,Yes,Yes,Low,Poor,No,2759,3263,2019,Owner,22.71889,75.804063
+PV0220,3072003,SYN,Rau,Independent House,1237,1237,2,0-5 years,South-West,Yes,No,Yes,Medium,Poor,No,1845,1986,2023,Dealer,22.653405,75.808856
+PV0221,3145231,SYN,Rau,Apartment,1440,1440,3,0-5 years,East,No,No,No,Low,Poor,Yes,1770,1835,2022,Owner,22.651377,75.813343
+PV0222,13350736,SYN,Palasia,Apartment,2479,2479,4,5-10 years,South-East,Yes,Yes,Yes,Low,Good,No,3500,4941,2016,Owner,22.727673,75.880793
+PV0223,2042230,SYN,Banganga,Independent House,780,780,1,0-5 years,North,Yes,No,No,Low,Good,No,2129,2144,2024,Owner,22.714702,75.828075
+PV0224,8410960,SYN,Nipania,Independent House,2047,2047,3,0-5 years,West,Yes,Yes,Yes,High,Good,No,2767,3260,2022,Owner,22.751456,75.917771
+PV0225,8586113,SYN,Palasia,Apartment,1481,1481,3,0-5 years,North,Yes,Yes,Yes,High,Excellent,No,3428,4675,2024,Owner,22.72697,75.881365
+PV0226,3252804,SYN,MR 10,Apartment,907,907,2,0-5 years,East,Yes,Yes,Yes,Medium,Average,Yes,2558,2975,2022,Dealer,22.768064,75.902539
+PV0227,13037356,SYN,Vijay Nagar,Apartment,2563,2563,4,10-20 years,East,Yes,Yes,Yes,High,Average,No,3119,4544,2007,Owner,22.746551,75.905221
+PV0228,2927343,SYN,Rau,Independent House,1481,1481,3,10-20 years,North-East,Yes,No,Yes,Low,Average,No,1783,1938,2007,Owner,22.651822,75.813565
+PV0229,4473760,SYN,Limbodi,Apartment,1717,1717,3,0-5 years,East,No,Yes,No,High,Average,Yes,1884,2056,2024,Dealer,22.816623,75.912397
+PV0230,2952387,SYN,Scheme 54,Apartment,695,695,1,5-10 years,South-West,Yes,Yes,Yes,Low,Good,No,2834,3768,2018,Dealer,22.734214,75.870073
+PV0231,7209487,SYN,Pardesipura,Villa,2274,2274,3,0-5 years,South-West,Yes,No,No,Medium,Good,Yes,2272,2535,2021,Owner,22.765205,75.875279
+PV0232,5101076,SYN,Nipania,Apartment,1533,1533,3,10-20 years,North,Yes,Yes,Yes,Low,Average,No,2694,3347,2009,Owner,22.758087,75.922509
+PV0233,5666967,SYN,Palasia,Apartment,906,906,2,5-10 years,North-East,Yes,Yes,No,Low,Poor,No,3431,5591,2017,Dealer,22.725866,75.882831
+PV0234,3215069,SYN,Nipania,Apartment,872,872,2,0-5 years,South,No,Yes,Yes,Medium,Poor,No,2622,3467,2020,Owner,22.753617,75.920667
+PV0235,11269103,SYN,Aerodrome Road,Villa,2288,2288,3,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,2730,3499,2016,Owner,22.719224,75.800446
+PV0236,9151636,SYN,AB Road,Independent House,1773,1773,3,5-10 years,North-East,Yes,No,Yes,Low,Good,No,3041,4202,2019,Owner,22.724804,75.91083
+PV0237,1931473,SYN,Niranjanpur,Builder Floor,632,632,1,5-10 years,West,Yes,Yes,Yes,Medium,Good,Yes,2643,3067,2017,Owner,22.757264,75.913324
+PV0238,2372764,SYN,Rajendra Nagar,Builder Floor,1027,1027,2,20+ years,South-West,No,No,No,Low,Good,No,2585,3069,2002,Dealer,22.708254,75.868034
+PV0239,5027540,SYN,Palasia,Builder Floor,1081,1081,2,5-10 years,East,Yes,Yes,No,Medium,Excellent,Yes,3407,4591,2017,Owner,22.723791,75.885354
+PV0240,4780904,SYN,Bhawarkuan,Apartment,1404,1404,3,10-20 years,North,No,Yes,Yes,Medium,Average,No,2557,3373,2007,Dealer,22.698457,75.842225
+PV0241,5160210,SYN,Rajendra Nagar,Villa,1495,1495,2,5-10 years,East,No,No,No,High,Average,Yes,2573,3045,2018,Owner,22.705734,75.868059
+PV0242,3770191,SYN,Pipliyahana,Apartment,1092,1092,2,0-5 years,South-East,No,No,No,Medium,Excellent,Yes,2429,3059,2024,Dealer,22.698616,75.922424
+PV0243,2886147,SYN,Limbodi,Builder Floor,1682,1682,3,20+ years,North,No,Yes,Yes,Medium,Poor,No,1851,2083,2002,Owner,22.818072,75.912965
+PV0244,4887816,SYN,Mahalaxmi Nagar,Apartment,1596,1596,3,10-20 years,North-West,Yes,Yes,Yes,Low,Average,Yes,2568,3211,2014,Dealer,22.712315,75.85796
+PV0245,7273007,SYN,Vijay Nagar,Apartment,1531,1531,3,10-20 years,East,Yes,No,No,Low,Excellent,No,3271,4834,2005,Dealer,22.742835,75.904673
+PV0246,2754878,SYN,MR 10,Apartment,850,850,2,5-10 years,East,Yes,Yes,No,Medium,Average,Yes,2582,2870,2019,Owner,22.773041,75.901053
+PV0247,9779479,SYN,Scheme 54,Apartment,2294,2294,4,0-5 years,South-West,No,No,Yes,Low,Average,No,2973,3715,2022,Dealer,22.727434,75.87319
+PV0248,5488557,SYN,Bhawarkuan,Villa,1432,1432,2,0-5 years,North,No,Yes,Yes,Medium,Average,Yes,2517,3019,2021,Owner,22.697453,75.842041
+PV0249,9090405,SYN,Scheme 54,Independent House,1911,1911,3,0-5 years,South,Yes,Yes,Yes,Medium,Good,No,2927,4009,2020,Dealer,22.732691,75.873138
+PV0250,11601507,SYN,Aerodrome Road,Apartment,2559,2559,4,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,2781,3859,2017,Dealer,22.718015,75.801022
+PV0251,3404926,SYN,MR 10,Independent House,1090,1090,2,20+ years,North,Yes,Yes,No,Low,Excellent,Yes,2655,3082,2003,Dealer,22.770133,75.905085
+PV0252,7477085,SYN,Bicholi Mardana,Independent House,3109,3109,4,10-20 years,North,Yes,Yes,No,Medium,Good,Yes,2184,2222,2008,Dealer,22.781017,75.928917
+PV0253,4351035,SYN,Aerodrome Road,Apartment,1070,1070,2,0-5 years,North-West,Yes,Yes,Yes,Low,Average,No,2758,3710,2024,Dealer,22.724434,75.802323
+PV0254,15761998,SYN,AB Road,Villa,2577,2577,3,0-5 years,North,Yes,Yes,Yes,Low,Excellent,No,3034,4015,2021,Owner,22.720834,75.909766
+PV0255,4574260,SYN,Tilak Nagar,Apartment,1549,1549,3,10-20 years,South,Yes,Yes,Yes,Medium,Good,No,2402,2803,2010,Dealer,22.719197,75.862843
+PV0256,4664346,SYN,Super Corridor,Apartment,1290,1290,3,0-5 years,South,Yes,No,No,Medium,Good,No,2328,3118,2021,Owner,22.789933,75.902475
+PV0257,14613530,SYN,Vijay Nagar,Villa,2690,2690,3,0-5 years,East,No,No,Yes,Medium,Good,No,3197,4262,2023,Dealer,22.742716,75.902881
+PV0258,3626695,SYN,Silicon City,Apartment,1284,1284,3,10-20 years,East,No,No,Yes,Medium,Average,Yes,2339,2744,2013,Owner,22.738691,75.880924
+PV0259,2789548,SYN,Bhawarkuan,Builder Floor,819,819,2,10-20 years,North,Yes,No,Yes,High,Average,No,2519,3308,2010,Dealer,22.693847,75.842153
+PV0260,4832170,SYN,Bhawarkuan,Independent House,1374,1374,2,10-20 years,East,Yes,Yes,Yes,High,Average,No,2531,3291,2006,Dealer,22.695828,75.837883
+PV0261,10490715,SYN,Vijay Nagar,Apartment,2233,2233,4,5-10 years,North-East,Yes,No,Yes,Low,Excellent,No,3257,4518,2016,Dealer,22.74749,75.900111
+PV0262,6409019,SYN,Super Corridor,Villa,2068,2068,3,10-20 years,West,No,Yes,Yes,Low,Excellent,Yes,2471,2781,2010,Dealer,22.788439,75.900896
+PV0263,1294999,SYN,Rau,Builder Floor,821,821,2,20+ years,East,Yes,No,Yes,Medium,Good,Yes,1750,2068,2001,Dealer,22.651082,75.810229
+PV0264,3164593,SYN,Bicholi Mardana,Independent House,1237,1237,2,10-20 years,East,No,No,No,High,Average,Yes,2186,2329,2008,Owner,22.777873,75.927899
+PV0265,5023942,SYN,MR 10,Independent House,1306,1306,2,10-20 years,East,Yes,No,Yes,Medium,Excellent,No,2567,3235,2006,Owner,22.772777,75.905474
+PV0266,12129488,SYN,Super Corridor,Villa,4065,4065,4,10-20 years,North,No,No,Yes,Medium,Average,No,2364,2575,2005,Dealer,22.785897,75.900396
+PV0267,4615257,SYN,Nipania,Independent House,1448,1448,2,5-10 years,East,Yes,No,No,High,Good,Yes,2641,3010,2018,Dealer,22.753673,75.922885
+PV0268,5710920,SYN,Vijay Nagar,Apartment,1426,1426,3,20+ years,North,No,Yes,Yes,Low,Good,No,3245,4902,1999,Dealer,22.744059,75.904508
+PV0269,2777515,SYN,Tilak Nagar,Apartment,978,978,2,10-20 years,East,Yes,No,Yes,Low,Average,No,2471,2946,2007,Dealer,22.720642,75.865069
+PV0270,1582735,SYN,Limbodi,Plot,1229,1229,0,20+ years,South,No,No,No,High,Average,No,1888,2021,1991,Owner,22.821875,75.90957
+PV0271,8178047,SYN,Scheme 54,Apartment,2203,2203,4,20+ years,South,Yes,Yes,Yes,Medium,Good,No,2887,4217,1990,Dealer,22.730083,75.870607
+PV0272,7757283,SYN,Scheme 54,Apartment,1648,1648,3,0-5 years,West,Yes,No,Yes,Low,Excellent,No,2843,4050,2023,Dealer,22.731373,75.871405
+PV0273,3329730,SYN,Niranjanpur,Independent House,1267,1267,2,20+ years,East,Yes,No,Yes,High,Good,No,2608,3073,2003,Dealer,22.76125,75.916699
+PV0274,3651229,SYN,Nipania,Apartment,1273,1273,3,10-20 years,West,Yes,Yes,Yes,Medium,Poor,No,2763,3014,2007,Dealer,22.758103,75.917051
+PV0275,7345630,SYN,Niranjanpur,Villa,1708,1708,2,0-5 years,North,No,No,Yes,Low,Poor,Yes,2533,3239,2021,Dealer,22.757515,75.913562
+PV0276,3778099,SYN,AB Road,Apartment,825,825,2,0-5 years,North-East,No,Yes,Yes,Low,Good,No,3091,3997,2024,Dealer,22.719509,75.914449
+PV0277,4363446,SYN,Pardesipura,Villa,1364,1364,2,5-10 years,South-East,Yes,Yes,Yes,High,Good,Yes,2334,2666,2018,Owner,22.766802,75.875065
+PV0278,1994502,SYN,MR 10,Apartment,529,529,1,0-5 years,North-East,Yes,No,Yes,Medium,Poor,No,2554,2906,2024,Dealer,22.772981,75.904647
+PV0279,4228754,SYN,AB Road,Apartment,970,970,2,0-5 years,East,Yes,Yes,No,Low,Good,Yes,3080,4173,2020,Dealer,22.722093,75.911473
+PV0280,2868604,SYN,Mahalaxmi Nagar,Builder Floor,1087,1087,2,20+ years,East,Yes,No,Yes,Medium,Poor,No,2517,2923,2001,Dealer,22.711283,75.862562
+PV0281,4195536,SYN,Niranjanpur,Apartment,1293,1293,3,5-10 years,East,No,Yes,Yes,Medium,Poor,No,2623,2966,2019,Dealer,22.762118,75.917462
+PV0282,1734118,SYN,Super Corridor,Builder Floor,534,534,1,0-5 years,South,No,No,Yes,High,Poor,No,2340,3035,2020,Owner,22.789135,75.898247
+PV0283,2752586,SYN,Super Corridor,Apartment,1003,1003,2,20+ years,East,No,Yes,Yes,Low,Good,No,2430,2948,1998,Dealer,22.78482,75.899995
+PV0284,2109755,SYN,Niranjanpur,Apartment,572,572,1,5-10 years,South-East,Yes,Yes,Yes,Medium,Good,Yes,2629,3370,2017,Owner,22.7631,75.916566
+PV0285,5027513,SYN,MR 10,Apartment,1502,1502,3,0-5 years,West,No,No,No,Medium,Good,Yes,2603,3265,2020,Owner,22.770142,75.901312
+PV0286,6430955,SYN,AB Road,Apartment,1414,1414,3,0-5 years,East,Yes,Yes,Yes,Low,Excellent,No,3083,3799,2020,Dealer,22.722391,75.915212
+PV0287,3281030,SYN,Banganga,Independent House,1286,1286,2,10-20 years,North-East,No,Yes,Yes,Medium,Average,No,2113,2416,2012,Owner,22.714255,75.832547
+PV0288,5462483,SYN,Bhawarkuan,Apartment,1505,1505,3,0-5 years,East,No,No,Yes,High,Average,No,2522,3242,2020,Dealer,22.698802,75.839209
+PV0289,18455657,SYN,Palasia,Independent House,2781,2781,4,0-5 years,North,Yes,Yes,Yes,Medium,Good,No,3566,5594,2021,Dealer,22.727576,75.88288
+PV0290,5277784,SYN,Aerodrome Road,Apartment,1154,1154,3,5-10 years,East,Yes,Yes,Yes,Low,Good,No,2717,3640,2019,Owner,22.723744,75.797949
+PV0291,1545640,SYN,Pipliyahana,Apartment,587,587,1,20+ years,East,Yes,No,No,High,Excellent,Yes,2564,2943,1990,Owner,22.70007,75.923631
+PV0292,4688511,SYN,Sudama Nagar,Independent House,1816,1816,3,10-20 years,South,No,No,No,Low,Good,Yes,2142,2514,2006,Dealer,22.689749,75.837372
+PV0293,6996335,SYN,Scheme 54,Apartment,2211,2211,4,10-20 years,West,Yes,Yes,Yes,Low,Excellent,Yes,2917,3746,2012,Dealer,22.732435,75.873067
+PV0294,2036991,SYN,Kanadiya,Builder Floor,974,974,2,10-20 years,South,No,Yes,No,Low,Average,Yes,2041,2369,2012,Dealer,22.79862,75.895206
+PV0295,4699727,SYN,Rajendra Nagar,Apartment,1587,1587,3,5-10 years,West,No,Yes,Yes,Low,Poor,No,2578,2868,2018,Dealer,22.704889,75.867124
+PV0296,11414211,SYN,Scheme 54,Apartment,2249,2249,4,0-5 years,North,Yes,Yes,Yes,Low,Good,No,2981,4194,2023,Owner,22.732926,75.867716
+PV0297,6256304,SYN,Palasia,Apartment,950,950,2,0-5 years,West,Yes,No,Yes,Low,Excellent,No,3436,5528,2021,Owner,22.724123,75.885402
+PV0298,5994022,SYN,Nipania,Apartment,1637,1637,3,5-10 years,East,No,Yes,Yes,Low,Poor,Yes,2710,3362,2015,Dealer,22.756479,75.916623
+PV0299,16565736,SYN,Scheme 54,Villa,3345,3345,4,5-10 years,West,Yes,No,Yes,Low,Excellent,No,2925,4116,2017,Owner,22.732057,75.867889
+PV0300,4862587,SYN,Mahalaxmi Nagar,Apartment,1476,1476,3,5-10 years,South,Yes,No,Yes,Medium,Good,No,2458,3213,2018,Dealer,22.715891,75.860148
+PV0301,9027552,SYN,Scheme 54,Villa,1587,1587,2,5-10 years,North-West,Yes,Yes,Yes,Low,Excellent,No,2927,4283,2016,Owner,22.733921,75.871514
+PV0302,4840045,SYN,Pipliyahana,Apartment,1422,1422,3,0-5 years,North,Yes,Yes,Yes,Low,Good,Yes,2541,2933,2024,Dealer,22.699456,75.91664
+PV0303,2098975,SYN,Rau,Independent House,829,829,1,5-10 years,West,Yes,Yes,Yes,High,Excellent,No,1820,2051,2015,Dealer,22.651956,75.81232
+PV0304,2155796,SYN,Limbodi,Plot,1106,1106,0,0-5 years,South,No,No,Yes,Medium,Average,No,1934,2097,2020,Owner,22.820289,75.911695
+PV0305,4311747,SYN,Tilak Nagar,Apartment,1486,1486,3,0-5 years,North,Yes,No,No,Medium,Average,No,2470,2882,2023,Dealer,22.721045,75.864165
+PV0306,8169821,SYN,MR 10,Apartment,2294,2294,4,5-10 years,East,No,Yes,No,Medium,Good,Yes,2576,3304,2015,Owner,22.772637,75.899644
+PV0307,6247515,SYN,MR 10,Villa,1554,1554,2,0-5 years,South,No,Yes,No,Medium,Average,Yes,2544,2819,2021,Owner,22.771539,75.89994
+PV0308,14506362,SYN,Vijay Nagar,Villa,2482,2482,3,0-5 years,East,Yes,No,Yes,High,Excellent,Yes,3149,4648,2024,Dealer,22.742083,75.898987
+PV0309,2449836,SYN,Mahalaxmi Nagar,Apartment,856,856,2,10-20 years,West,No,Yes,Yes,Medium,Average,No,2466,2831,2007,Dealer,22.714148,75.856264
+PV0310,4863446,SYN,Vijay Nagar,Apartment,1153,1153,2,10-20 years,West,Yes,Yes,Yes,Low,Excellent,Yes,3150,4413,2007,Owner,22.746189,75.901153
+PV0311,5581324,SYN,Vijay Nagar,Builder Floor,1051,1051,2,0-5 years,West,Yes,Yes,Yes,Medium,Good,No,3197,4851,2024,Dealer,22.746729,75.900468
+PV0312,24728075,SYN,Palasia,Villa,4033,4033,4,10-20 years,East,Yes,Yes,Yes,Low,Average,No,3459,5078,2009,Owner,22.726042,75.884595
+PV0313,1629269,SYN,Sudama Nagar,Apartment,613,613,1,0-5 years,North,Yes,Yes,Yes,High,Average,No,2150,2343,2024,Dealer,22.691607,75.842951
+PV0314,3049475,SYN,Annapurna,Independent House,1345,1345,2,10-20 years,South,No,No,Yes,Low,Average,Yes,2361,2382,2011,Owner,22.685216,75.865903
+PV0315,9549039,SYN,Mahalaxmi Nagar,Independent House,2898,2898,4,0-5 years,West,No,No,Yes,Medium,Good,No,2484,3170,2024,Owner,22.713514,75.859556
+PV0316,4709744,SYN,AB Road,Apartment,1261,1261,3,10-20 years,East,Yes,Yes,Yes,Low,Excellent,Yes,3160,3887,2011,Dealer,22.724475,75.914832
+PV0317,2356947,SYN,Pipliyahana,Villa,768,768,1,20+ years,North,Yes,Yes,Yes,Low,Good,No,2443,2781,2003,Owner,22.695708,75.917029
+PV0318,3768433,SYN,Pardesipura,Villa,1226,1226,2,0-5 years,South,No,No,Yes,Medium,Excellent,Yes,2342,2478,2023,Dealer,22.767274,75.871532
+PV0319,13807071,SYN,AB Road,Villa,2294,2294,3,0-5 years,North-East,No,No,Yes,Medium,Good,No,3025,4070,2020,Owner,22.722363,75.914562
+PV0320,2348871,SYN,Banganga,Apartment,1041,1041,2,0-5 years,West,No,No,No,Low,Excellent,No,2055,2140,2022,Dealer,22.714744,75.830402
+PV0321,7542634,SYN,Bicholi Hapsi,Independent House,2784,2784,4,5-10 years,East,No,No,No,High,Average,No,2051,2450,2018,Owner,22.792985,75.940232
+PV0322,3490427,SYN,Aerodrome Road,Apartment,917,917,2,0-5 years,East,Yes,Yes,Yes,Low,Good,No,2769,3465,2022,Owner,22.71831,75.802016
+PV0323,5243201,SYN,Bicholi Hapsi,Independent House,1901,1901,3,0-5 years,West,Yes,No,No,Medium,Good,No,2092,2359,2021,Dealer,22.787325,75.94021
+PV0324,2857484,SYN,Pardesipura,Builder Floor,943,943,2,5-10 years,West,No,Yes,No,Low,Average,Yes,2274,2741,2016,Owner,22.761917,75.875831
+PV0325,11961143,SYN,Vijay Nagar,Independent House,2896,2896,4,10-20 years,East,Yes,Yes,Yes,Medium,Good,No,3151,4201,2014,Dealer,22.74291,75.905098
+PV0326,12505223,SYN,Vijay Nagar,Apartment,2290,2290,4,5-10 years,West,Yes,No,Yes,Low,Excellent,No,3272,4905,2018,Owner,22.743705,75.900174
+PV0327,5053561,SYN,Super Corridor,Apartment,1694,1694,3,0-5 years,South,No,No,No,High,Average,Yes,2356,2740,2023,Owner,22.788723,75.898247
+PV0328,6914150,SYN,Aerodrome Road,Builder Floor,1757,1757,3,0-5 years,North,Yes,No,Yes,Low,Excellent,No,2865,3453,2022,Dealer,22.720046,75.804026
+PV0329,2984333,SYN,Tilak Nagar,Builder Floor,916,916,2,0-5 years,North,No,No,Yes,High,Poor,No,2429,2980,2024,Owner,22.717227,75.866406
+PV0330,3186589,SYN,Niranjanpur,Apartment,957,957,2,10-20 years,East,No,Yes,No,Medium,Good,No,2605,3165,2014,Dealer,22.759537,75.915961
+PV0331,2926134,SYN,Super Corridor,Apartment,1026,1026,2,0-5 years,West,No,Yes,No,Low,Poor,No,2469,2566,2020,Owner,22.784439,75.898437
+PV0332,8371464,SYN,MR 10,Independent House,2221,2221,3,5-10 years,East,Yes,No,Yes,Medium,Poor,Yes,2563,2925,2017,Dealer,22.772787,75.903249
+PV0333,3817111,SYN,Mahalaxmi Nagar,Independent House,1123,1123,2,0-5 years,North,No,No,Yes,High,Good,Yes,2566,2932,2022,Dealer,22.714438,75.860147
+PV0334,4057239,SYN,Bicholi Mardana,Independent House,2056,2056,3,20+ years,North-West,No,Yes,Yes,High,Good,Yes,2165,2426,2001,Owner,22.782313,75.932768
+PV0335,7933288,SYN,Sudama Nagar,Independent House,3062,3062,4,5-10 years,West,Yes,No,Yes,Medium,Poor,Yes,2173,2218,2017,Dealer,22.688519,75.842621
+PV0336,6081261,SYN,Super Corridor,Independent House,2070,2070,3,10-20 years,East,Yes,No,No,Medium,Good,Yes,2418,2904,2011,Owner,22.788925,75.899857
+PV0337,4270893,SYN,Niranjanpur,Independent House,1150,1150,2,0-5 years,South-West,Yes,Yes,Yes,Low,Good,No,2539,3284,2024,Owner,22.761111,75.914104
+PV0338,16197713,SYN,Vijay Nagar,Villa,2780,2780,3,0-5 years,East,Yes,No,Yes,Low,Good,No,3281,4239,2024,Owner,22.748998,75.904422
+PV0339,4404269,SYN,Aerodrome Road,Apartment,1194,1194,3,10-20 years,West,Yes,Yes,Yes,Low,Good,Yes,2832,3647,2012,Dealer,22.721969,75.80431
+PV0340,9725670,SYN,Vijay Nagar,Apartment,2310,2310,4,20+ years,East,No,No,Yes,Medium,Good,No,3246,4861,2002,Dealer,22.747401,75.901889
+PV0341,4513449,SYN,AB Road,Apartment,1144,1144,3,0-5 years,North,Yes,Yes,Yes,Low,Good,No,3146,3782,2022,Owner,22.721185,75.910182
+PV0342,2888687,SYN,Pardesipura,Independent House,1199,1199,2,10-20 years,South,Yes,No,Yes,Medium,Good,No,2346,2431,2008,Dealer,22.764923,75.874452
+PV0343,3211573,SYN,LIG Colony,Independent House,1354,1354,2,10-20 years,West,No,No,No,Medium,Poor,No,2167,2333,2012,Dealer,22.732297,75.847988
+PV0344,5247572,SYN,Silicon City,Independent House,1956,1956,3,10-20 years,West,Yes,No,No,Medium,Average,Yes,2278,2600,2013,Owner,22.737124,75.879783
+PV0345,1165491,SYN,Bicholi Mardana,Builder Floor,590,590,1,10-20 years,West,Yes,Yes,No,Medium,Good,Yes,2229,2206,2005,Dealer,22.782994,75.931428
+PV0346,3807604,SYN,Super Corridor,Independent House,1314,1314,2,5-10 years,East,No,No,Yes,Low,Good,No,2349,2619,2018,Owner,22.787636,75.899345
+PV0347,1996580,SYN,Banganga,Plot,1187,1187,0,5-10 years,East,No,Yes,No,Medium,Average,Yes,2107,2205,2015,Dealer,22.715634,75.829074
+PV0348,4818870,SYN,AB Road,Apartment,1020,1020,2,10-20 years,East,Yes,Yes,Yes,Low,Excellent,No,3143,4266,2012,Owner,22.722836,75.909962
+PV0349,4057565,SYN,Aerodrome Road,Apartment,980,980,2,0-5 years,East,Yes,Yes,Yes,Low,Good,No,2763,3339,2024,Owner,22.722515,75.797656
+PV0350,11038757,SYN,Scheme 54,Villa,2264,2264,3,0-5 years,South,Yes,Yes,No,Low,Average,Yes,2859,3868,2024,Owner,22.731908,75.871489
+PV0351,5547421,SYN,Pipliyahana,Independent House,1844,1844,3,0-5 years,North-East,No,Yes,No,Medium,Good,No,2501,2811,2022,Owner,22.697001,75.921225
+PV0352,2948261,SYN,Bhawarkuan,Apartment,861,861,2,0-5 years,East,Yes,Yes,Yes,High,Good,No,2537,2913,2021,Owner,22.69511,75.840817
+PV0353,3008228,SYN,Pardesipura,Independent House,1336,1336,2,20+ years,East,No,No,No,Medium,Average,No,2300,2794,1990,Owner,22.763782,75.871228
+PV0354,2375512,SYN,Nipania,Apartment,602,602,1,0-5 years,South,Yes,Yes,Yes,Medium,Average,Yes,2657,3123,2021,Owner,22.754591,75.919988
+PV0355,3719212,SYN,AB Road,Builder Floor,884,884,2,5-10 years,North,Yes,Yes,Yes,Low,Good,Yes,3068,3917,2015,Dealer,22.720122,75.909163
+PV0356,1228428,SYN,Kanadiya,Apartment,576,576,1,10-20 years,East,No,No,Yes,Medium,Poor,Yes,2050,2075,2008,Dealer,22.803354,75.891832
+PV0357,2318806,SYN,Rajendra Nagar,Apartment,638,638,1,0-5 years,West,Yes,Yes,Yes,Low,Good,No,2534,3266,2023,Owner,22.704577,75.865438
+PV0358,11973869,SYN,Palasia,Apartment,2036,2036,4,5-10 years,East,Yes,Yes,Yes,Low,Good,No,3426,5142,2015,Dealer,22.724699,75.887292
+PV0359,11426336,SYN,Scheme 54,Villa,2404,2404,3,10-20 years,North,Yes,Yes,Yes,Medium,Excellent,Yes,2889,4069,2010,Dealer,22.734039,75.86673
+PV0360,6571036,SYN,Niranjanpur,Apartment,1759,1759,3,5-10 years,South-West,Yes,Yes,No,Medium,Excellent,Yes,2528,3397,2016,Dealer,22.76087,75.918701
+PV0361,2932798,SYN,LIG Colony,Apartment,1251,1251,3,5-10 years,East,Yes,Yes,No,Low,Average,Yes,2206,2250,2015,Dealer,22.732686,75.84841
+PV0362,6150540,SYN,Aerodrome Road,Apartment,1506,1506,3,0-5 years,North,Yes,Yes,Yes,Medium,Good,No,2839,3662,2021,Owner,22.721322,75.79805
+PV0363,5181333,SYN,Scheme 54,Apartment,1299,1299,3,0-5 years,West,No,Yes,Yes,Low,Average,No,2827,3588,2023,Dealer,22.730349,75.873317
+PV0364,2885680,SYN,Pipliyahana,Apartment,943,943,2,10-20 years,East,Yes,No,Yes,Low,Average,Yes,2495,2999,2007,Owner,22.695418,75.923201
+PV0365,5434201,SYN,AB Road,Builder Floor,1505,1505,3,10-20 years,West,Yes,Yes,Yes,Low,Excellent,No,3049,4165,2011,Dealer,22.720077,75.911604
+PV0366,5393019,SYN,Aerodrome Road,Apartment,1405,1405,3,0-5 years,East,No,Yes,Yes,Low,Average,No,2761,3410,2022,Dealer,22.723369,75.802995
+PV0367,11671540,SYN,Aerodrome Road,Villa,2661,2661,3,0-5 years,West,Yes,No,Yes,Medium,Excellent,No,2764,3802,2020,Owner,22.71796,75.799103
+PV0368,6429844,SYN,Scheme 54,Apartment,1518,1518,3,10-20 years,West,Yes,Yes,Yes,High,Excellent,No,2947,4334,2012,Dealer,22.731236,75.873231
+PV0369,2350781,SYN,Bicholi Hapsi,Plot,1114,1114,0,10-20 years,North,Yes,No,Yes,Medium,Good,Yes,2057,2439,2005,Dealer,22.787308,75.941904
+PV0370,17709289,SYN,Palasia,Villa,2437,2437,3,0-5 years,East,Yes,No,Yes,Low,Poor,No,3413,5516,2021,Owner,22.724078,75.881787
+PV0371,7489885,SYN,Palasia,Builder Floor,1658,1658,3,20+ years,North-West,Yes,No,Yes,Medium,Average,No,3516,5063,1991,Dealer,22.725363,75.88664
+PV0372,1462564,SYN,Banganga,Apartment,609,609,1,0-5 years,West,Yes,Yes,Yes,Low,Average,Yes,2150,2105,2022,Owner,22.714576,75.826672
+PV0373,5114408,SYN,Nipania,Apartment,1528,1528,3,5-10 years,East,Yes,No,Yes,Low,Poor,No,2627,3215,2019,Dealer,22.753837,75.921168
+PV0374,3878573,SYN,Aerodrome Road,Apartment,1077,1077,2,5-10 years,North-West,Yes,No,Yes,Low,Good,No,2861,3440,2016,Owner,22.721837,75.802731
+PV0375,4922453,SYN,Vijay Nagar,Villa,897,897,1,0-5 years,West,Yes,No,Yes,Low,Excellent,No,3142,4025,2024,Dealer,22.746043,75.90423
+PV0376,3402422,SYN,Silicon City,Builder Floor,1514,1514,3,5-10 years,South,No,No,No,High,Poor,No,2365,2353,2015,Owner,22.742221,75.878808
+PV0377,3740219,SYN,Annapurna,Builder Floor,1647,1647,3,10-20 years,South,No,Yes,Yes,Low,Average,Yes,2290,2437,2014,Dealer,22.685873,75.864168
+PV0378,3220504,SYN,Silicon City,Apartment,1039,1039,2,0-5 years,North,Yes,Yes,Yes,Low,Average,Yes,2358,2650,2021,Dealer,22.741755,75.876763
+PV0379,4323704,SYN,Niranjanpur,Apartment,1099,1099,2,5-10 years,North,Yes,Yes,No,Medium,Good,Yes,2559,3427,2019,Dealer,22.756868,75.918513
+PV0380,3692781,SYN,Aerodrome Road,Apartment,982,982,2,10-20 years,East,No,Yes,Yes,Medium,Excellent,Yes,2793,3687,2014,Dealer,22.724462,75.797862
+PV0381,2832596,SYN,Bicholi Mardana,Plot,1185,1185,0,5-10 years,North,No,No,Yes,Medium,Poor,Yes,2165,2519,2016,Dealer,22.78204,75.931274
+PV0382,7766372,SYN,Palasia,Apartment,1396,1396,3,10-20 years,East,Yes,Yes,Yes,Medium,Good,No,3537,5582,2006,Owner,22.721507,75.881896
+PV0383,7723556,SYN,Aerodrome Road,Builder Floor,2180,2180,4,5-10 years,East,Yes,No,Yes,Medium,Excellent,No,2856,3734,2019,Dealer,22.723023,75.801428
+PV0384,1209600,SYN,Limbodi,Apartment,574,574,1,5-10 years,West,No,No,No,Medium,Excellent,No,1929,1993,2018,Dealer,22.822144,75.909253
+PV0385,4293822,SYN,Mahalaxmi Nagar,Apartment,1378,1378,3,10-20 years,East,No,Yes,Yes,Medium,Average,No,2561,2748,2009,Owner,22.709502,75.862456
+PV0386,7975291,SYN,Mahalaxmi Nagar,Builder Floor,2301,2301,4,0-5 years,West,No,Yes,Yes,Low,Average,No,2431,3096,2024,Owner,22.715246,75.858629
+PV0387,10448717,SYN,Aerodrome Road,Villa,2500,2500,3,0-5 years,North-East,Yes,Yes,Yes,High,Excellent,No,2880,3268,2023,Owner,22.718833,75.803137
+PV0388,2988431,SYN,Super Corridor,Builder Floor,959,959,2,0-5 years,North-East,Yes,Yes,Yes,Medium,Average,Yes,2344,2763,2021,Dealer,22.788431,75.90074
+PV0389,3048583,SYN,Pardesipura,Builder Floor,1458,1458,3,20+ years,East,Yes,No,No,Low,Excellent,No,2285,2574,1994,Owner,22.764013,75.871127
+PV0390,20269608,SYN,Palasia,Independent House,3124,3124,4,0-5 years,East,Yes,No,Yes,Low,Excellent,No,3558,5490,2023,Owner,22.725005,75.881974
+PV0391,3142098,SYN,Kanadiya,Independent House,1790,1790,3,20+ years,East,Yes,No,No,Medium,Poor,No,1986,2026,2003,Dealer,22.803202,75.893211
+PV0392,1432611,SYN,Rau,Independent House,705,705,1,20+ years,North,No,No,Yes,High,Average,No,1779,2120,1994,Dealer,22.647644,75.81043
+PV0393,2778888,SYN,Rau,Apartment,1395,1395,3,10-20 years,East,No,No,No,Medium,Good,No,1768,2080,2013,Owner,22.651674,75.808087
+PV0394,6523936,SYN,Tilak Nagar,Independent House,2193,2193,3,10-20 years,East,Yes,No,Yes,Low,Good,Yes,2438,2800,2010,Dealer,22.722841,75.868047
+PV0395,6961447,SYN,Bhawarkuan,Apartment,2555,2555,4,5-10 years,North-West,No,No,Yes,Medium,Excellent,No,2433,2813,2018,Owner,22.697216,75.838176
+PV0396,7461866,SYN,Aerodrome Road,Villa,1683,1683,2,0-5 years,West,Yes,Yes,Yes,Low,Good,Yes,2728,3308,2022,Dealer,22.71978,75.799448
+PV0397,2357685,SYN,Pardesipura,Builder Floor,906,906,2,0-5 years,East,Yes,No,No,High,Poor,Yes,2334,2447,2023,Dealer,22.764573,75.87544
+PV0398,3422417,SYN,Nipania,Apartment,946,946,2,0-5 years,South,Yes,No,Yes,Low,Excellent,No,2625,3346,2020,Dealer,22.755524,75.918745
+PV0399,4354462,SYN,Nipania,Apartment,1046,1046,2,0-5 years,South,Yes,No,Yes,Low,Excellent,Yes,2680,3626,2021,Dealer,22.751891,75.917048
+PV0400,7387062,SYN,Niranjanpur,Apartment,1967,1967,4,0-5 years,South-East,Yes,Yes,Yes,Low,Poor,No,2570,2913,2022,Owner,22.758763,75.914612
+PV0401,12911313,SYN,Vijay Nagar,Villa,2461,2461,3,5-10 years,North-East,Yes,No,Yes,Low,Good,No,3160,4086,2016,Dealer,22.745684,75.905398
+PV0402,6124142,SYN,Bhawarkuan,Apartment,1650,1650,3,0-5 years,South,Yes,No,Yes,Medium,Good,No,2529,3157,2023,Dealer,22.692063,75.838907
+PV0403,3545599,SYN,Bhawarkuan,Apartment,1033,1033,2,5-10 years,South,No,Yes,Yes,Medium,Poor,No,2541,3303,2019,Owner,22.694455,75.836555
+PV0404,3516737,SYN,Pipliyahana,Apartment,1127,1127,2,5-10 years,East,Yes,Yes,No,Medium,Poor,Yes,2438,2908,2015,Dealer,22.695666,75.922214
+PV0405,8057774,SYN,Aerodrome Road,Apartment,2257,2257,4,10-20 years,East,Yes,Yes,Yes,Medium,Excellent,No,2815,3560,2012,Dealer,22.720016,75.800521
+PV0406,1944988,SYN,AB Road,Apartment,553,553,1,20+ years,South-West,Yes,Yes,Yes,Low,Good,No,3143,3833,1993,Dealer,22.718249,75.911459
+PV0407,1977961,SYN,Silicon City,Builder Floor,777,777,2,10-20 years,North-West,Yes,Yes,Yes,Medium,Poor,No,2293,2699,2006,Dealer,22.739688,75.881376
+PV0408,3958041,SYN,Banganga,Independent House,2143,2143,3,20+ years,North,Yes,No,No,Medium,Poor,Yes,2136,2125,1990,Owner,22.71047,75.827559
+PV0409,7257179,SYN,Scheme 54,Apartment,1575,1575,3,0-5 years,South-West,Yes,Yes,Yes,Low,Average,Yes,2818,4045,2023,Dealer,22.731786,75.871562
+PV0410,4500742,SYN,Scheme 54,Apartment,932,932,2,0-5 years,West,Yes,Yes,Yes,Low,Average,No,2820,4229,2020,Owner,22.731329,75.87161
+PV0411,2940676,SYN,Tilak Nagar,Apartment,1146,1146,2,20+ years,South-West,Yes,Yes,Yes,Medium,Good,Yes,2348,2975,1997,Owner,22.717523,75.863782
+PV0412,3170070,SYN,Mahalaxmi Nagar,Apartment,1006,1006,2,10-20 years,East,Yes,No,Yes,Low,Good,No,2451,3148,2005,Dealer,22.709971,75.856677
+PV0413,9916985,SYN,Scheme 54,Apartment,2698,2698,4,5-10 years,East,Yes,Yes,Yes,Medium,Excellent,No,2872,3520,2019,Dealer,22.730197,75.867572
+PV0414,7594854,SYN,MR 10,Independent House,1902,1902,3,0-5 years,West,Yes,No,Yes,Low,Good,Yes,2581,3219,2021,Dealer,22.767407,75.904708
+PV0415,1633713,SYN,Sudama Nagar,Builder Floor,658,658,1,5-10 years,West,Yes,No,No,Medium,Good,Yes,2210,2488,2018,Dealer,22.686924,75.838017
+PV0416,2966375,SYN,Tilak Nagar,Builder Floor,1059,1059,2,10-20 years,North-East,Yes,No,Yes,Medium,Poor,No,2405,2676,2006,Dealer,22.71716,75.86582
+PV0417,2247298,SYN,Rau,Apartment,941,941,2,5-10 years,East,Yes,No,Yes,Low,Good,Yes,1785,2014,2018,Owner,22.651644,75.811001
+PV0418,12580645,SYN,AB Road,Villa,2291,2291,3,5-10 years,South-West,Yes,Yes,Yes,Low,Average,No,3178,4113,2016,Dealer,22.720589,75.913125
+PV0419,4266868,SYN,Nipania,Apartment,1270,1270,3,0-5 years,West,No,Yes,Yes,High,Good,No,2697,2982,2021,Owner,22.755952,75.920772
+PV0420,2520465,SYN,Mahalaxmi Nagar,Builder Floor,956,956,2,5-10 years,North-East,No,Yes,No,High,Good,No,2441,2913,2016,Dealer,22.7124,75.860927
+PV0421,3987010,SYN,Pipliyahana,Independent House,1316,1316,2,5-10 years,South,No,No,Yes,High,Average,No,2445,2742,2017,Owner,22.695981,75.921721
+PV0422,1611529,SYN,Bicholi Hapsi,Independent House,664,664,1,5-10 years,West,No,No,No,Low,Average,Yes,2105,2188,2016,Dealer,22.793503,75.937842
+PV0423,10335077,SYN,Palasia,Villa,1558,1558,2,0-5 years,North,Yes,Yes,Yes,High,Average,No,3397,4902,2020,Dealer,22.721575,75.880306
+PV0424,15367751,SYN,Palasia,Villa,2584,2584,3,5-10 years,East,Yes,No,Yes,Medium,Good,No,3600,4726,2017,Dealer,22.725692,75.880983
+PV0425,4861519,SYN,Bicholi Mardana,Independent House,1666,1666,3,5-10 years,East,Yes,Yes,No,High,Poor,No,2262,2554,2017,Owner,22.782886,75.926993
+PV0426,4421152,SYN,LIG Colony,Independent House,2056,2056,3,10-20 years,South,No,No,Yes,High,Good,No,2212,2216,2007,Dealer,22.728108,75.852143
+PV0427,6239234,SYN,AB Road,Builder Floor,1512,1512,3,5-10 years,East,Yes,No,Yes,Low,Excellent,Yes,3106,4042,2016,Dealer,22.720397,75.910371
+PV0428,2139399,SYN,Pardesipura,Apartment,967,967,2,10-20 years,West,Yes,Yes,No,High,Good,Yes,2292,2419,2009,Dealer,22.762475,75.872455
+PV0429,9206168,SYN,Vijay Nagar,Builder Floor,1867,1867,4,5-10 years,East,No,Yes,Yes,Low,Excellent,No,3227,4636,2015,Dealer,22.748923,75.904068
+PV0430,3943835,SYN,MR 10,Apartment,1175,1175,2,0-5 years,North,Yes,Yes,Yes,Medium,Good,No,2673,2957,2021,Dealer,22.773463,75.902992
+PV0431,2186048,SYN,Silicon City,Independent House,700,700,1,0-5 years,North,Yes,No,No,Medium,Average,Yes,2276,2757,2024,Dealer,22.737572,75.882351
+PV0432,2793223,SYN,MR 10,Apartment,985,985,2,10-20 years,South,Yes,No,Yes,Low,Good,No,2597,3246,2007,Dealer,22.772668,75.903249
+PV0433,2443366,SYN,Super Corridor,Apartment,883,883,2,20+ years,East,Yes,No,Yes,Medium,Poor,Yes,2466,2929,2001,Owner,22.787047,75.899817
+PV0434,4216238,SYN,Bhawarkuan,Builder Floor,1411,1411,3,0-5 years,East,Yes,Yes,No,Medium,Poor,No,2531,2829,2024,Owner,22.693329,75.839908
+PV0435,2049619,SYN,Rau,Independent House,1004,1004,2,10-20 years,South,No,Yes,No,Medium,Poor,No,1803,2047,2007,Owner,22.646969,75.811517
+PV0436,14583957,SYN,Palasia,Villa,2368,2368,3,0-5 years,North-East,Yes,Yes,No,Low,Excellent,No,3403,4898,2021,Dealer,22.726018,75.883872
+PV0437,3474442,SYN,Bhawarkuan,Builder Floor,1150,1150,3,5-10 years,North-East,No,No,Yes,High,Average,No,2440,2870,2019,Owner,22.695928,75.84109
+PV0438,20861006,SYN,Palasia,Villa,3414,3414,4,0-5 years,South,No,Yes,No,Medium,Good,No,3561,4657,2020,Owner,22.726733,75.882979
+PV0439,3415755,SYN,Rajendra Nagar,Apartment,1106,1106,2,10-20 years,East,Yes,No,Yes,Medium,Poor,No,2648,2877,2009,Owner,22.704679,75.866705
+PV0440,5128509,SYN,Aerodrome Road,Independent House,1372,1372,2,5-10 years,South-East,No,No,No,High,Good,No,2859,3813,2015,Dealer,22.721833,75.80465
+PV0441,7230997,SYN,Super Corridor,Villa,2056,2056,3,0-5 years,West,No,No,No,High,Poor,Yes,2345,2662,2022,Dealer,22.78979,75.899297
+PV0442,7607061,SYN,Vijay Nagar,Villa,1483,1483,2,0-5 years,East,Yes,Yes,Yes,Medium,Good,No,3209,4288,2022,Dealer,22.745976,75.903115
+PV0443,11025947,SYN,AB Road,Independent House,1974,1974,3,0-5 years,North,No,No,Yes,Low,Good,No,3056,4460,2022,Dealer,22.720685,75.915732
+PV0444,2324386,SYN,Kanadiya,Apartment,1054,1054,2,10-20 years,East,Yes,Yes,Yes,High,Poor,Yes,1942,2273,2005,Owner,22.799175,75.891473
+PV0445,5081659,SYN,Super Corridor,Builder Floor,1631,1631,3,0-5 years,East,Yes,Yes,No,Medium,Good,No,2408,2801,2020,Dealer,22.788656,75.900319
+PV0446,4088992,SYN,Rajendra Nagar,Apartment,1561,1561,3,20+ years,East,Yes,Yes,Yes,High,Good,Yes,2659,2974,1996,Dealer,22.70509,75.867675
+PV0447,4509951,SYN,Limbodi,Apartment,2480,2480,4,10-20 years,West,No,Yes,No,Medium,Excellent,No,1890,1970,2005,Dealer,22.821458,75.908903
+PV0448,11952566,SYN,Vijay Nagar,Villa,2205,2205,3,0-5 years,West,Yes,Yes,Yes,Medium,Good,No,3223,4008,2020,Dealer,22.745442,75.899351
+PV0449,13502165,SYN,Rajendra Nagar,Villa,3487,3487,4,10-20 years,South-West,Yes,No,Yes,Low,Poor,No,2526,3376,2009,Owner,22.70658,75.866596
+PV0450,7093072,SYN,Mahalaxmi Nagar,Villa,2421,2421,3,20+ years,West,Yes,No,Yes,Low,Good,No,2561,2888,2002,Owner,22.710478,75.857264
+PV0451,6406863,SYN,Nipania,Apartment,1776,1776,4,0-5 years,North,Yes,Yes,Yes,Medium,Good,No,2739,3068,2024,Owner,22.75736,75.922124
+PV0452,7583967,SYN,Bhawarkuan,Independent House,2750,2750,4,20+ years,West,Yes,Yes,Yes,Low,Good,Yes,2497,2939,1990,Dealer,22.698548,75.838696
+PV0453,7742947,SYN,Vijay Nagar,Apartment,1473,1473,3,0-5 years,West,Yes,Yes,Yes,Low,Excellent,No,3248,4363,2022,Dealer,22.747195,75.898772
+PV0454,3696212,SYN,Tilak Nagar,Apartment,1459,1459,3,10-20 years,East,Yes,Yes,Yes,Medium,Average,No,2425,2596,2007,Owner,22.723287,75.86619
+PV0455,6158732,SYN,AB Road,Independent House,1277,1277,2,0-5 years,South-West,Yes,Yes,Yes,Medium,Good,No,3035,4087,2020,Dealer,22.718524,75.912546
+PV0456,7276153,SYN,Vijay Nagar,Apartment,1495,1495,3,5-10 years,East,Yes,Yes,Yes,Low,Average,No,3257,4604,2019,Owner,22.744737,75.900016
+PV0457,8022681,SYN,AB Road,Villa,1499,1499,2,5-10 years,East,No,Yes,No,Low,Good,Yes,3168,4380,2017,Dealer,22.724788,75.909159
+PV0458,7577178,SYN,Aerodrome Road,Apartment,1704,1704,3,0-5 years,East,No,No,Yes,Low,Excellent,No,2793,3852,2020,Dealer,22.723409,75.804356
+PV0459,8443116,SYN,Nipania,Villa,2185,2185,3,10-20 years,South-West,Yes,No,Yes,Medium,Excellent,Yes,2778,3555,2006,Dealer,22.754147,75.923087
+PV0460,2011493,SYN,Banganga,Apartment,846,846,2,0-5 years,North-East,No,Yes,Yes,Medium,Average,Yes,2125,2308,2024,Owner,22.713725,75.830773
+PV0461,6030285,SYN,Mahalaxmi Nagar,Independent House,1839,1839,3,10-20 years,East,No,No,Yes,Low,Average,No,2538,3058,2014,Dealer,22.710093,75.859394
+PV0462,2104141,SYN,Pardesipura,Builder Floor,936,936,2,20+ years,East,No,Yes,Yes,Low,Good,Yes,2318,2652,1995,Dealer,22.76586,75.874541
+PV0463,10191972,SYN,Aerodrome Road,Villa,2109,2109,3,0-5 years,West,Yes,Yes,Yes,Medium,Excellent,Yes,2752,3532,2021,Owner,22.718459,75.80436
+PV0464,5014044,SYN,Annapurna,Independent House,1470,1470,2,0-5 years,East,No,Yes,Yes,High,Good,No,2309,2643,2020,Owner,22.686872,75.866591
+PV0465,16525657,SYN,Palasia,Villa,2564,2564,3,10-20 years,East,Yes,No,Yes,Medium,Good,Yes,3500,5300,2007,Dealer,22.727638,75.883533
+PV0466,6414261,SYN,Palasia,Apartment,1361,1361,3,10-20 years,East,No,Yes,Yes,Medium,Good,No,3470,5247,2008,Dealer,22.726741,75.883862
+PV0467,6782503,SYN,Niranjanpur,Apartment,2171,2171,4,10-20 years,South,Yes,Yes,Yes,High,Good,Yes,2637,3404,2011,Owner,22.762424,75.918831
+PV0468,3929747,SYN,Tilak Nagar,Apartment,1077,1077,2,5-10 years,North,Yes,Yes,Yes,High,Good,No,2420,2986,2017,Dealer,22.719221,75.868471
+PV0469,4295079,SYN,Super Corridor,Apartment,1409,1409,3,0-5 years,North,No,Yes,Yes,Medium,Good,No,2385,2542,2024,Dealer,22.784834,75.897733
+PV0470,3343663,SYN,Mahalaxmi Nagar,Apartment,1389,1389,3,20+ years,West,Yes,Yes,Yes,Medium,Good,Yes,2540,2837,1997,Dealer,22.713888,75.861234
+PV0471,3731282,SYN,Nipania,Builder Floor,992,992,2,0-5 years,South-West,Yes,Yes,No,Low,Good,No,2692,3524,2024,Dealer,22.752153,75.918628
+PV0472,8692281,SYN,Palasia,Builder Floor,1448,1448,3,5-10 years,East,Yes,Yes,Yes,Medium,Good,No,3567,5002,2016,Owner,22.725144,75.885308
+PV0473,4857898,SYN,MR 10,Independent House,2083,2083,3,20+ years,South,No,Yes,No,Medium,Good,Yes,2553,2956,1999,Owner,22.766671,75.905414
+PV0474,6837253,SYN,AB Road,Apartment,1608,1608,3,10-20 years,West,Yes,Yes,Yes,Low,Average,Yes,3156,4177,2011,Owner,22.720381,75.909004
+PV0475,1443158,SYN,Bhawarkuan,Apartment,530,530,1,10-20 years,South,No,No,Yes,Low,Good,Yes,2567,3065,2013,Dealer,22.692268,75.836705
+PV0476,2656990,SYN,MR 10,Builder Floor,821,821,2,0-5 years,North,Yes,No,Yes,Low,Good,Yes,2585,3171,2021,Dealer,22.767729,75.899964
+PV0477,3716432,SYN,Scheme 54,Apartment,870,870,2,5-10 years,North,Yes,No,Yes,Low,Good,No,2869,3751,2015,Owner,22.728331,75.870949
+PV0478,4578596,SYN,Pardesipura,Independent House,1342,1342,2,0-5 years,East,No,Yes,Yes,Low,Good,Yes,2282,2632,2021,Owner,22.764091,75.876537
+PV0479,16963757,SYN,AB Road,Independent House,3182,3182,4,0-5 years,North-East,Yes,No,Yes,Medium,Excellent,No,3189,4123,2022,Dealer,22.723045,75.914164
+PV0480,4002429,SYN,Nipania,Independent House,1380,1380,2,20+ years,West,Yes,No,Yes,Low,Average,No,2673,3370,2001,Dealer,22.753863,75.917686
+PV0481,13812535,SYN,Vijay Nagar,Independent House,2600,2600,4,5-10 years,East,Yes,Yes,Yes,Low,Good,No,3109,4317,2016,Dealer,22.742072,75.902696
+PV0482,6102674,SYN,Palasia,Apartment,985,985,2,0-5 years,North-West,Yes,No,Yes,Low,Good,No,3428,5525,2023,Owner,22.725481,75.881442
+PV0483,4997964,SYN,Super Corridor,Builder Floor,1758,1758,4,10-20 years,North-East,Yes,No,Yes,Low,Good,No,2426,3061,2011,Dealer,22.790953,75.900429
+PV0484,7024183,SYN,Aerodrome Road,Apartment,1690,1690,3,0-5 years,South,Yes,No,Yes,Medium,Good,Yes,2747,3570,2024,Dealer,22.723342,75.798305
+PV0485,2966537,SYN,Pardesipura,Apartment,984,984,2,10-20 years,North,Yes,No,Yes,Low,Excellent,No,2276,2767,2009,Dealer,22.76711,75.874235
+PV0486,10010503,SYN,Niranjanpur,Independent House,2564,2564,4,0-5 years,North,Yes,Yes,No,Low,Good,Yes,2668,3276,2023,Owner,22.7616,75.916495
+PV0487,3239281,SYN,Tilak Nagar,Independent House,1476,1476,2,20+ years,South,No,No,No,Medium,Excellent,No,2408,2640,1990,Owner,22.721939,75.862808
+PV0488,5112758,SYN,Niranjanpur,Independent House,1767,1767,3,20+ years,West,No,No,Yes,Medium,Good,Yes,2536,3371,1991,Owner,22.760035,75.911955
+PV0489,4258545,SYN,Bicholi Hapsi,Independent House,1895,1895,3,10-20 years,North,No,Yes,No,High,Poor,No,2122,2301,2013,Dealer,22.792142,75.942753
+PV0490,10901874,SYN,AB Road,Independent House,2679,2679,4,5-10 years,South,No,No,No,Medium,Poor,Yes,3014,3829,2019,Dealer,22.719992,75.91419
+PV0491,4937020,SYN,Palasia,Apartment,1023,1023,2,10-20 years,North-East,Yes,Yes,Yes,Low,Good,No,3603,4627,2013,Dealer,22.72743,75.885282
+PV0492,2903071,SYN,Pipliyahana,Builder Floor,1035,1035,2,10-20 years,East,Yes,Yes,Yes,Medium,Good,No,2461,2765,2012,Owner,22.700489,75.917328
+PV0493,3335691,SYN,Sudama Nagar,Independent House,1115,1115,2,0-5 years,South-West,No,No,No,Medium,Average,Yes,2136,2512,2022,Dealer,22.688349,75.837663
+PV0494,4048223,SYN,Pipliyahana,Apartment,1272,1272,3,0-5 years,North-West,Yes,No,Yes,Medium,Good,Yes,2426,2865,2022,Dealer,22.69953,75.919175
+PV0495,3745107,SYN,Scheme 54,Apartment,926,926,2,0-5 years,East,No,Yes,Yes,Low,Average,No,2836,3670,2024,Dealer,22.731155,75.86989
+PV0496,6996700,SYN,AB Road,Independent House,1829,1829,3,20+ years,South-East,No,Yes,No,High,Good,Yes,3146,4262,2000,Owner,22.719363,75.910308
+PV0497,4408022,SYN,Nipania,Apartment,1289,1289,3,5-10 years,West,Yes,Yes,Yes,Medium,Poor,Yes,2631,3401,2015,Owner,22.752401,75.918821
+PV0498,3238096,SYN,Annapurna,Builder Floor,1452,1452,3,10-20 years,East,No,No,No,High,Good,No,2325,2390,2012,Dealer,22.686146,75.866984
+PV0499,3220666,SYN,Tilak Nagar,Apartment,1112,1112,2,0-5 years,North,No,Yes,No,Medium,Good,Yes,2340,2615,2024,Owner,22.720324,75.863897
+PV0500,4329944,SYN,Tilak Nagar,Apartment,1367,1367,3,5-10 years,North-East,Yes,Yes,Yes,Low,Average,No,2441,2963,2017,Owner,22.719186,75.867861
+PV0501,1622936,SYN,Rau,Plot,1318,1318,0,20+ years,South-West,No,Yes,No,Medium,Average,No,1831,1997,2004,Owner,22.651782,75.812059
+PV0502,2175205,SYN,Pardesipura,Apartment,973,973,2,10-20 years,South,Yes,No,No,High,Poor,No,2276,2433,2011,Dealer,22.768861,75.870364
+PV0503,2893103,SYN,Sudama Nagar,Apartment,1065,1065,2,0-5 years,North,Yes,Yes,No,Medium,Poor,No,2230,2486,2022,Owner,22.693623,75.838035
+PV0504,7985877,SYN,Pardesipura,Apartment,2267,2267,4,0-5 years,South,Yes,Yes,Yes,Low,Average,No,2359,2812,2023,Dealer,22.767201,75.874463
+PV0505,6049637,SYN,Vijay Nagar,Builder Floor,1267,1267,3,10-20 years,North-East,Yes,Yes,Yes,Low,Excellent,No,3250,4933,2013,Dealer,22.74323,75.901091
+PV0506,4144413,SYN,Silicon City,Builder Floor,1442,1442,3,5-10 years,West,Yes,No,Yes,Medium,Poor,No,2301,2630,2018,Owner,22.741754,75.879325
+PV0507,7183922,SYN,Vijay Nagar,Independent House,1230,1230,2,0-5 years,South,Yes,Yes,No,Low,Excellent,No,3278,4934,2022,Dealer,22.744336,75.902985
+PV0508,3221339,SYN,Rau,Independent House,1288,1288,2,0-5 years,North,Yes,Yes,No,Medium,Poor,No,1849,2017,2022,Dealer,22.650998,75.812913
+PV0509,5336961,SYN,Palasia,Apartment,951,951,2,5-10 years,West,Yes,Yes,Yes,Medium,Excellent,No,3465,4941,2017,Owner,22.725814,75.881004
+PV0510,4016864,SYN,Annapurna,Apartment,1500,1500,3,10-20 years,North,No,No,No,High,Poor,No,2243,2552,2010,Owner,22.684001,75.866385
+PV0511,3966990,SYN,AB Road,Apartment,785,785,2,0-5 years,North,Yes,Yes,No,Medium,Excellent,No,3091,4219,2022,Dealer,22.723657,75.915097
+PV0512,15713492,SYN,Vijay Nagar,Independent House,3160,3160,4,10-20 years,North,Yes,Yes,No,Medium,Average,No,3124,4755,2008,Owner,22.748416,75.900916
+PV0513,8764236,SYN,Pipliyahana,Villa,2190,2190,3,5-10 years,North,Yes,Yes,Yes,Medium,Average,Yes,2550,3004,2018,Owner,22.69516,75.916763
+PV0514,7777406,SYN,Vijay Nagar,Apartment,1516,1516,3,5-10 years,East,Yes,No,Yes,Low,Excellent,No,3146,4878,2017,Dealer,22.742804,75.905216
+PV0515,4503249,SYN,Bicholi Hapsi,Apartment,1619,1619,3,0-5 years,South-West,No,No,Yes,Low,Good,No,2079,2301,2023,Owner,22.787705,75.940644
+PV0516,1732275,SYN,Limbodi,Apartment,835,835,2,10-20 years,North,No,No,No,Medium,Good,Yes,1954,2046,2009,Dealer,22.820399,75.90823
+PV0517,3372041,SYN,MR 10,Apartment,1149,1149,2,10-20 years,East,No,Yes,Yes,Low,Good,No,2658,2884,2012,Dealer,22.768419,75.901929
+PV0518,1915771,SYN,Nipania,Apartment,521,521,1,0-5 years,North-East,No,Yes,Yes,High,Excellent,Yes,2718,3139,2023,Owner,22.751574,75.920369
+PV0519,2851508,SYN,Pardesipura,Builder Floor,980,980,2,0-5 years,West,No,Yes,Yes,Medium,Poor,No,2249,2807,2023,Dealer,22.763088,75.873187
+PV0520,9769744,SYN,Aerodrome Road,Apartment,2191,2191,4,0-5 years,South,Yes,Yes,Yes,Low,Good,No,2809,3860,2021,Dealer,22.719694,75.800242
+PV0521,3201756,SYN,Vijay Nagar,Builder Floor,833,833,2,20+ years,North,Yes,Yes,Yes,Medium,Excellent,No,3193,4909,1999,Owner,22.748742,75.903574
+PV0522,2650996,SYN,Bicholi Mardana,Builder Floor,1494,1494,3,20+ years,East,No,No,No,Medium,Good,Yes,2243,2318,1993,Dealer,22.778062,75.930473
+PV0523,2451146,SYN,Mahalaxmi Nagar,Builder Floor,1008,1008,2,20+ years,South,Yes,No,Yes,High,Poor,Yes,2519,3056,1994,Owner,22.714001,75.858339
+PV0524,3385429,SYN,Bhawarkuan,Builder Floor,1072,1072,2,10-20 years,South-West,Yes,Yes,Yes,Low,Average,No,2453,3193,2008,Dealer,22.698768,75.836762
+PV0525,5738096,SYN,Aerodrome Road,Apartment,1346,1346,3,5-10 years,North,Yes,Yes,Yes,Medium,Good,No,2744,3837,2019,Dealer,22.718936,75.804792
+PV0526,4178681,SYN,Vijay Nagar,Apartment,933,933,2,5-10 years,North-West,Yes,Yes,Yes,Medium,Average,No,3166,4301,2019,Dealer,22.748062,75.901726
+PV0527,2354232,SYN,Bicholi Hapsi,Apartment,904,904,2,5-10 years,East,No,Yes,No,High,Average,No,2157,2257,2019,Dealer,22.791933,75.94038
+PV0528,2197650,SYN,Bhawarkuan,Apartment,521,521,1,0-5 years,North,Yes,No,Yes,Low,Good,Yes,2475,3199,2021,Dealer,22.697871,75.84306
+PV0529,5915947,SYN,Niranjanpur,Apartment,1834,1834,4,10-20 years,East,Yes,No,No,Low,Excellent,Yes,2526,3207,2014,Dealer,22.760435,75.912938
+PV0530,2308757,SYN,Bicholi Hapsi,Plot,1156,1156,0,5-10 years,North,No,No,No,Medium,Average,Yes,2109,2423,2016,Dealer,22.790216,75.93791
+PV0531,2473037,SYN,LIG Colony,Apartment,991,991,2,5-10 years,East,No,Yes,No,Medium,Good,No,2215,2267,2019,Dealer,22.732331,75.847394
+PV0532,2163016,SYN,LIG Colony,Apartment,943,943,2,10-20 years,East,No,No,Yes,Medium,Average,No,2265,2366,2012,Dealer,22.731704,75.848421
+PV0533,3011983,SYN,AB Road,Apartment,601,601,1,0-5 years,East,Yes,Yes,Yes,Low,Good,No,3075,4320,2024,Dealer,22.721408,75.909449
+PV0534,3244504,SYN,LIG Colony,Independent House,1279,1279,2,5-10 years,North-West,No,No,No,Medium,Average,No,2183,2400,2018,Dealer,22.729408,75.848067
+PV0535,2297176,SYN,LIG Colony,Independent House,937,937,1,10-20 years,North,Yes,Yes,No,Low,Good,No,2201,2219,2012,Dealer,22.728904,75.850914
+PV0536,10485321,SYN,MR 10,Villa,2603,2603,3,0-5 years,North,No,No,No,Medium,Excellent,No,2617,3119,2024,Dealer,22.77171,75.899246
+PV0537,1447451,SYN,Bicholi Hapsi,Apartment,562,562,1,5-10 years,North-East,Yes,Yes,Yes,High,Average,No,2139,2233,2016,Owner,22.790648,75.938437
+PV0538,2300527,SYN,Banganga,Independent House,781,781,1,0-5 years,North,Yes,No,No,Medium,Average,Yes,2058,2295,2021,Owner,22.711185,75.827287
+PV0539,1589728,SYN,Bicholi Hapsi,Plot,974,974,0,10-20 years,South,No,No,Yes,Medium,Good,Yes,2149,2111,2014,Owner,22.791438,75.940599
+PV0540,14560669,SYN,Palasia,Builder Floor,2459,2459,4,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,3594,5238,2016,Owner,22.722528,75.880706
+PV0541,1896988,SYN,Limbodi,Plot,1261,1261,0,5-10 years,South,No,No,No,Medium,Average,Yes,1857,2060,2018,Dealer,22.822423,75.910153
+PV0542,7672001,SYN,Palasia,Apartment,1369,1369,3,0-5 years,East,Yes,Yes,Yes,Low,Excellent,No,3415,5054,2022,Dealer,22.721629,75.885953
+PV0543,1573229,SYN,Pardesipura,Apartment,615,615,1,5-10 years,East,No,No,Yes,Low,Good,No,2235,2551,2019,Owner,22.763059,75.873652
+PV0544,3910930,SYN,Tilak Nagar,Builder Floor,1443,1443,3,5-10 years,East,No,Yes,Yes,Low,Good,No,2356,2577,2015,Dealer,22.718142,75.863256
+PV0545,1947002,SYN,Banganga,Apartment,889,889,2,10-20 years,East,Yes,No,Yes,High,Average,No,2146,2253,2013,Dealer,22.712379,75.827037
+PV0546,5723178,SYN,Scheme 54,Apartment,1294,1294,3,0-5 years,East,Yes,No,Yes,Medium,Excellent,Yes,2902,3964,2020,Owner,22.731499,75.87215
+PV0547,5923077,SYN,Aerodrome Road,Apartment,1404,1404,3,0-5 years,North,No,No,Yes,Medium,Good,No,2799,3586,2024,Owner,22.722416,75.798393
+PV0548,3645962,SYN,Silicon City,Independent House,1411,1411,2,20+ years,North-West,No,No,Yes,High,Average,Yes,2334,2779,1997,Dealer,22.738494,75.882751
+PV0549,7032898,SYN,Scheme 54,Builder Floor,1565,1565,3,0-5 years,East,Yes,Yes,Yes,Low,Excellent,No,2972,4210,2023,Dealer,22.728791,75.867548
+PV0550,8026452,SYN,Mahalaxmi Nagar,Apartment,2404,2404,4,0-5 years,East,No,No,No,Low,Good,No,2439,2849,2022,Owner,22.714606,75.860282
+PV0551,1825622,SYN,Mahalaxmi Nagar,Builder Floor,557,557,1,5-10 years,South-East,Yes,Yes,Yes,Medium,Average,No,2574,3102,2017,Owner,22.713465,75.859082
+PV0552,6468638,SYN,Palasia,Apartment,1009,1009,2,0-5 years,North,Yes,Yes,Yes,Low,Good,No,3408,5399,2024,Dealer,22.722217,75.881118
+PV0553,7355214,SYN,Vijay Nagar,Apartment,1522,1522,3,5-10 years,South-East,Yes,Yes,Yes,Low,Excellent,No,3294,4312,2019,Dealer,22.742511,75.903454
+PV0554,8983439,SYN,Palasia,Apartment,1543,1543,3,5-10 years,North-West,Yes,Yes,Yes,Low,Excellent,No,3427,5484,2016,Owner,22.72479,75.886967
+PV0555,3641215,SYN,Rajendra Nagar,Apartment,917,917,2,0-5 years,East,Yes,No,Yes,Low,Average,Yes,2537,3373,2020,Dealer,22.708509,75.867284
+PV0556,1930617,SYN,Limbodi,Apartment,999,999,2,10-20 years,West,No,No,Yes,High,Good,No,1951,1986,2006,Owner,22.81665,75.910103
+PV0557,4487010,SYN,AB Road,Apartment,976,976,2,5-10 years,East,Yes,Yes,Yes,Low,Good,No,3077,4063,2017,Owner,22.721117,75.913026
+PV0558,3695150,SYN,Banganga,Independent House,1326,1326,2,10-20 years,North-East,Yes,No,No,High,Average,No,2154,2337,2008,Owner,22.715476,75.828833
+PV0559,2705978,SYN,Annapurna,Builder Floor,1075,1075,2,0-5 years,West,No,No,No,Medium,Poor,No,2336,2402,2023,Owner,22.68239,75.859968
+PV0560,7224851,SYN,Vijay Nagar,Villa,1332,1332,2,0-5 years,South,Yes,Yes,Yes,Low,Good,No,3194,4233,2020,Dealer,22.744849,75.901762
+PV0561,1873894,SYN,Kanadiya,Apartment,919,919,2,10-20 years,South,Yes,Yes,Yes,Medium,Good,No,1992,2010,2014,Owner,22.803078,75.894435
+PV0562,10320993,SYN,Vijay Nagar,Villa,1887,1887,3,0-5 years,West,No,Yes,Yes,Medium,Average,No,3203,4168,2022,Dealer,22.746371,75.90194
+PV0563,3303026,SYN,Niranjanpur,Apartment,1018,1018,2,0-5 years,North-West,Yes,Yes,No,Low,Average,No,2547,2881,2020,Dealer,22.758051,75.916708
+PV0564,7785143,SYN,Aerodrome Road,Builder Floor,1973,1973,4,10-20 years,South-East,Yes,Yes,Yes,Low,Excellent,No,2793,3847,2009,Dealer,22.723021,75.79987
+PV0565,4843155,SYN,Nipania,Builder Floor,1692,1692,3,10-20 years,West,No,No,Yes,High,Excellent,Yes,2730,3205,2013,Owner,22.758188,75.917738
+PV0566,2280763,SYN,Annapurna,Apartment,1004,1004,2,10-20 years,North-East,Yes,No,Yes,Medium,Average,Yes,2233,2415,2013,Owner,22.687251,75.863676
+PV0567,3322513,SYN,Tilak Nagar,Apartment,1414,1414,3,20+ years,East,No,No,No,Low,Average,Yes,2381,2661,1998,Dealer,22.721823,75.867544
+PV0568,5040002,SYN,Tilak Nagar,Apartment,1683,1683,3,0-5 years,South-East,Yes,No,No,Low,Excellent,No,2412,2890,2021,Owner,22.720219,75.86297
+PV0569,8370058,SYN,Aerodrome Road,Villa,2376,2376,3,10-20 years,South,Yes,Yes,Yes,Low,Good,No,2827,3749,2014,Dealer,22.721019,75.799079
+PV0570,2055864,SYN,Nipania,Builder Floor,601,601,1,0-5 years,South,Yes,No,No,Medium,Excellent,No,2665,3221,2023,Owner,22.756442,75.919698
+PV0571,7758737,SYN,Mahalaxmi Nagar,Apartment,2298,2298,4,5-10 years,South-West,Yes,Yes,Yes,Low,Good,No,2481,3059,2018,Dealer,22.713354,75.858604
+PV0572,8598559,SYN,Palasia,Apartment,1712,1712,3,10-20 years,East,Yes,Yes,Yes,Low,Average,No,3410,4720,2010,Dealer,22.727655,75.880831
+PV0573,2969521,SYN,Bicholi Mardana,Apartment,1107,1107,2,5-10 years,South-East,Yes,Yes,Yes,Medium,Average,Yes,2194,2500,2015,Dealer,22.783547,75.930995
+PV0574,2219943,SYN,Sudama Nagar,Independent House,949,949,1,10-20 years,East,Yes,No,No,Low,Average,No,2218,2262,2012,Owner,22.692052,75.839288
+PV0575,2973703,SYN,Pardesipura,Apartment,1032,1032,2,5-10 years,East,Yes,Yes,No,Low,Poor,No,2268,2610,2015,Owner,22.762996,75.871963
+PV0576,2667331,SYN,MR 10,Builder Floor,920,920,2,10-20 years,North,Yes,Yes,Yes,Low,Good,No,2561,2808,2013,Dealer,22.77337,75.903637
+PV0577,5779296,SYN,Palasia,Apartment,1027,1027,2,0-5 years,North,Yes,Yes,Yes,Medium,Good,No,3599,4888,2023,Owner,22.725893,75.884347
+PV0578,10113247,SYN,Palasia,Villa,1804,1804,2,10-20 years,North-East,No,Yes,Yes,Low,Excellent,No,3464,5051,2007,Owner,22.72658,75.886554
+PV0579,6553915,SYN,Tilak Nagar,Apartment,2367,2367,4,5-10 years,South-West,Yes,Yes,Yes,Medium,Good,No,2382,2527,2017,Dealer,22.722525,75.864925
+PV0580,2114951,SYN,Limbodi,Builder Floor,1136,1136,2,5-10 years,South-East,Yes,Yes,Yes,Medium,Average,No,1925,1950,2015,Dealer,22.818584,75.911102
+PV0581,4041965,SYN,Annapurna,Independent House,1414,1414,2,10-20 years,North-East,No,Yes,Yes,High,Average,No,2322,2705,2005,Owner,22.682555,75.865346
+PV0582,2824632,SYN,Bhawarkuan,Villa,910,910,1,20+ years,North,Yes,No,No,Medium,Poor,Yes,2524,3195,2004,Dealer,22.696704,75.840486
+PV0583,4662888,SYN,Niranjanpur,Builder Floor,1676,1676,3,20+ years,North,Yes,No,Yes,Low,Poor,Yes,2606,3216,2000,Dealer,22.758586,75.914828
+PV0584,2252677,SYN,Super Corridor,Apartment,978,978,2,20+ years,North-East,No,No,Yes,Medium,Good,No,2426,2676,1996,Dealer,22.787046,75.900432
+PV0585,10696406,SYN,AB Road,Independent House,2302,2302,3,10-20 years,South-West,Yes,Yes,Yes,Medium,Good,No,3066,4248,2009,Dealer,22.723014,75.908974
+PV0586,10179499,SYN,Palasia,Apartment,2225,2225,4,10-20 years,North-East,Yes,Yes,Yes,Medium,Good,No,3450,4583,2006,Dealer,22.726648,75.881809
+PV0587,2234757,SYN,LIG Colony,Apartment,906,906,2,10-20 years,North-West,No,Yes,Yes,Medium,Average,No,2164,2347,2012,Dealer,22.731824,75.849267
+PV0588,6873816,SYN,Palasia,Apartment,1394,1394,3,10-20 years,South,Yes,Yes,Yes,Medium,Good,No,3413,5052,2013,Dealer,22.725342,75.886078
+PV0589,2748612,SYN,Bicholi Hapsi,Apartment,1017,1017,2,0-5 years,East,No,Yes,Yes,Medium,Good,No,2043,2200,2024,Owner,22.792724,75.938615
+PV0590,5217697,SYN,AB Road,Apartment,1147,1147,2,0-5 years,East,Yes,Yes,Yes,Medium,Excellent,No,3102,3898,2021,Owner,22.722135,75.914684
+PV0591,4985133,SYN,Aerodrome Road,Apartment,1439,1439,3,10-20 years,North,Yes,Yes,Yes,Low,Excellent,No,2815,3339,2012,Dealer,22.723556,75.799186
+PV0592,4844089,SYN,Nipania,Builder Floor,1445,1445,3,10-20 years,East,Yes,Yes,Yes,High,Good,No,2665,3221,2009,Owner,22.758088,75.920955
+PV0593,4666337,SYN,Rajendra Nagar,Apartment,1691,1691,3,10-20 years,North,No,No,No,Medium,Good,No,2587,2958,2013,Dealer,22.706142,75.864555
+PV0594,14629496,SYN,Palasia,Villa,2266,2266,3,5-10 years,West,Yes,Yes,Yes,Medium,Excellent,Yes,3558,4853,2019,Owner,22.724924,75.882227
+PV0595,6255429,SYN,AB Road,Independent House,1320,1320,2,10-20 years,East,No,No,Yes,Low,Excellent,No,3168,4325,2013,Dealer,22.722145,75.91439
+PV0596,4442880,SYN,AB Road,Builder Floor,998,998,2,5-10 years,South,Yes,Yes,Yes,Low,Good,No,3083,4343,2019,Owner,22.723958,75.911849
+PV0597,2345762,SYN,Mahalaxmi Nagar,Builder Floor,826,826,2,10-20 years,North-East,Yes,No,Yes,High,Good,No,2440,3129,2014,Dealer,22.710282,75.858583
+PV0598,6810601,SYN,Aerodrome Road,Villa,1527,1527,2,5-10 years,North,Yes,No,Yes,Low,Excellent,No,2836,3777,2018,Dealer,22.721572,75.800365
+PV0599,2599263,SYN,Mahalaxmi Nagar,Apartment,861,861,2,5-10 years,South-East,Yes,No,No,Medium,Average,Yes,2574,2911,2019,Dealer,22.71114,75.860541
+PV0600,3820194,SYN,Sudama Nagar,Builder Floor,1437,1437,3,0-5 years,West,Yes,Yes,No,Medium,Average,Yes,2254,2439,2020,Dealer,22.688962,75.840259
+PV0601,29914654,SYN,Palasia,Villa,4332,4332,4,0-5 years,North,Yes,Yes,Yes,Low,Excellent,No,3553,5362,2021,Owner,22.720857,75.884981
+PV0602,3763078,SYN,Rajendra Nagar,Builder Floor,1304,1304,3,5-10 years,West,Yes,Yes,No,Medium,Average,Yes,2640,2955,2018,Owner,22.707655,75.862994
+PV0603,1589631,SYN,Bicholi Mardana,Plot,1114,1114,0,20+ years,West,No,No,No,High,Good,Yes,2246,2220,1993,Dealer,22.778713,75.926972
+PV0604,2185068,SYN,Bicholi Mardana,Independent House,678,678,1,0-5 years,North-East,Yes,No,Yes,High,Poor,No,2171,2312,2022,Dealer,22.782427,75.932868
+PV0605,1834513,SYN,Rau,Apartment,810,810,2,0-5 years,East,Yes,Yes,No,Medium,Good,Yes,1832,1838,2024,Owner,22.651462,75.810396
+PV0606,5824292,SYN,AB Road,Independent House,1359,1359,2,10-20 years,East,No,Yes,Yes,Medium,Good,No,3161,4220,2008,Dealer,22.723307,75.915355
+PV0607,3427154,SYN,Rau,Independent House,1712,1712,3,10-20 years,South,Yes,Yes,No,Low,Good,Yes,1749,2000,2009,Owner,22.651446,75.807606
+PV0608,5527877,SYN,Annapurna,Independent House,1923,1923,3,10-20 years,North-West,No,No,No,High,Poor,Yes,2360,2718,2007,Owner,22.687994,75.866905
+PV0609,1950256,SYN,Rau,Apartment,944,944,2,5-10 years,South-East,No,Yes,No,High,Good,No,1797,1836,2016,Dealer,22.647792,75.812808
+PV0610,2560241,SYN,Annapurna,Plot,1344,1344,0,20+ years,East,No,No,Yes,Medium,Good,Yes,2256,2684,2002,Owner,22.687876,75.864551
+PV0611,6015641,SYN,Rajendra Nagar,Villa,1718,1718,2,10-20 years,East,No,No,Yes,Low,Average,No,2630,3202,2007,Owner,22.707757,75.865672
+PV0612,3517759,SYN,Bicholi Hapsi,Independent House,1409,1409,2,0-5 years,East,No,No,Yes,High,Average,No,2156,2238,2022,Owner,22.786609,75.938806
+PV0613,2723845,SYN,Pipliyahana,Apartment,822,822,2,0-5 years,East,Yes,Yes,Yes,High,Poor,No,2538,2964,2024,Dealer,22.700352,75.921797
+PV0614,4686851,SYN,Aerodrome Road,Apartment,1548,1548,3,20+ years,North,Yes,No,Yes,Low,Excellent,No,2794,3578,1994,Dealer,22.719004,75.802606
+PV0615,1394744,SYN,Silicon City,Apartment,632,632,1,20+ years,North,No,Yes,Yes,Low,Good,No,2241,2750,1991,Dealer,22.737998,75.878831
+PV0616,1695511,SYN,Niranjanpur,Builder Floor,711,711,1,20+ years,North,No,Yes,Yes,Low,Good,No,2573,2953,2000,Owner,22.760414,75.911949
+PV0617,4679018,SYN,MR 10,Apartment,1435,1435,3,0-5 years,North,Yes,No,Yes,High,Good,No,2624,2886,2023,Owner,22.771993,75.90068
+PV0618,3601362,SYN,Palasia,Independent House,762,762,1,10-20 years,West,Yes,No,Yes,Low,Good,Yes,3425,4831,2009,Owner,22.726437,75.882899
+PV0619,8276159,SYN,Aerodrome Road,Villa,1698,1698,2,0-5 years,East,No,No,Yes,Medium,Excellent,No,2868,3623,2022,Dealer,22.718362,75.797999
+PV0620,2387012,SYN,LIG Colony,Builder Floor,1102,1102,2,20+ years,West,No,No,Yes,Medium,Good,Yes,2221,2513,2003,Dealer,22.729611,75.849482
+PV0621,3589706,SYN,Annapurna,Apartment,1320,1320,3,0-5 years,East,No,Yes,Yes,High,Average,Yes,2362,2388,2022,Dealer,22.68413,75.861417
+PV0622,3543693,SYN,Bhawarkuan,Apartment,964,964,2,10-20 years,North,Yes,Yes,Yes,Low,Average,Yes,2474,3345,2007,Dealer,22.698931,75.839111
+PV0623,5620189,SYN,Aerodrome Road,Independent House,1383,1383,2,0-5 years,North-West,No,Yes,Yes,Medium,Excellent,No,2722,3433,2021,Owner,22.719388,75.797961
+PV0624,4011841,SYN,Bicholi Mardana,Independent House,1432,1432,2,5-10 years,South,Yes,Yes,No,Low,Poor,Yes,2188,2560,2017,Owner,22.781281,75.927553
+PV0625,4676560,SYN,Super Corridor,Apartment,1616,1616,3,5-10 years,South,No,No,Yes,High,Good,No,2409,2780,2016,Dealer,22.785461,75.898681
+PV0626,4111230,SYN,Mahalaxmi Nagar,Builder Floor,1333,1333,3,5-10 years,East,Yes,Yes,No,Medium,Good,No,2524,2780,2019,Dealer,22.712417,75.860359
+PV0627,1293383,SYN,Sudama Nagar,Builder Floor,572,572,1,10-20 years,North,Yes,No,Yes,High,Excellent,No,2154,2235,2010,Owner,22.687831,75.843114
+PV0628,8683038,SYN,Bhawarkuan,Apartment,2094,2094,4,0-5 years,North,Yes,Yes,Yes,High,Good,Yes,2448,3230,2021,Owner,22.693104,75.841637
+PV0629,5084245,SYN,Aerodrome Road,Apartment,1278,1278,3,5-10 years,West,Yes,Yes,Yes,Low,Good,No,2819,3709,2019,Dealer,22.723243,75.800953
+PV0630,1324679,SYN,Bicholi Mardana,Apartment,501,501,1,5-10 years,East,No,No,Yes,Medium,Excellent,No,2184,2426,2018,Dealer,22.780032,75.928299
+PV0631,8419847,SYN,Nipania,Apartment,2270,2270,4,0-5 years,North,Yes,No,Yes,Medium,Good,Yes,2704,3049,2022,Owner,22.754542,75.921011
+PV0632,3151666,SYN,Rajendra Nagar,Apartment,944,944,2,5-10 years,South-West,Yes,Yes,Yes,Low,Good,No,2646,2887,2019,Owner,22.706638,75.867452
+PV0633,4184022,SYN,Rajendra Nagar,Apartment,1230,1230,3,0-5 years,East,Yes,No,Yes,Low,Excellent,No,2670,2895,2021,Dealer,22.707291,75.866588
+PV0634,3084176,SYN,Aerodrome Road,Apartment,846,846,2,5-10 years,South-East,No,Yes,Yes,Medium,Good,No,2880,3382,2018,Owner,22.722764,75.800178
+PV0635,2304609,SYN,Limbodi,Apartment,1066,1066,2,10-20 years,North,No,Yes,Yes,Medium,Good,No,1849,2100,2008,Owner,22.820694,75.909691
+PV0636,3291969,SYN,Kanadiya,Builder Floor,1330,1330,3,0-5 years,North,No,No,Yes,High,Average,Yes,1959,2240,2024,Dealer,22.804708,75.895976
+PV0637,3316473,SYN,MR 10,Apartment,946,946,2,0-5 years,East,No,No,Yes,High,Poor,Yes,2658,3122,2024,Owner,22.767323,75.904327
+PV0638,4216535,SYN,Bhawarkuan,Apartment,1397,1397,3,10-20 years,North,No,Yes,Yes,Medium,Good,No,2544,3282,2007,Dealer,22.691868,75.842307
+PV0639,5690676,SYN,Pipliyahana,Independent House,1648,1648,3,0-5 years,West,No,Yes,Yes,High,Good,Yes,2537,2862,2024,Owner,22.695204,75.921684
+PV0640,1609985,SYN,Bicholi Mardana,Independent House,806,806,1,20+ years,East,No,No,Yes,Low,Average,Yes,2146,2232,1993,Dealer,22.776857,75.927069
+PV0641,1754834,SYN,Silicon City,Apartment,638,638,1,5-10 years,West,No,Yes,Yes,Medium,Excellent,Yes,2362,2611,2016,Dealer,22.742441,75.882699
+PV0642,2106254,SYN,Limbodi,Independent House,1145,1145,2,10-20 years,West,No,No,Yes,Medium,Average,No,1903,2096,2006,Owner,22.822791,75.912421
+PV0643,1484329,SYN,Rau,Independent House,846,846,1,10-20 years,West,No,Yes,Yes,Medium,Good,Yes,1828,1953,2009,Dealer,22.648113,75.807944
+PV0644,2676367,SYN,Annapurna,Apartment,1001,1001,2,5-10 years,South-West,No,No,No,Medium,Excellent,No,2355,2589,2015,Owner,22.682137,75.86198
+PV0645,1975225,SYN,LIG Colony,Apartment,1030,1030,2,20+ years,East,No,No,No,Medium,Average,Yes,2209,2207,2001,Dealer,22.729706,75.849553
+PV0646,5054463,SYN,Kanadiya,Apartment,2230,2230,4,0-5 years,East,No,No,No,Low,Poor,Yes,1978,2026,2022,Dealer,22.804395,75.895588
+PV0647,1939526,SYN,Banganga,Apartment,714,714,1,0-5 years,South,No,Yes,No,Medium,Good,No,2123,2403,2022,Dealer,22.71027,75.829831
+PV0648,8007211,SYN,Pardesipura,Independent House,2448,2448,4,0-5 years,East,No,No,Yes,Low,Poor,No,2315,2651,2023,Owner,22.762084,75.876052
+PV0649,4088719,SYN,Tilak Nagar,Apartment,1389,1389,3,10-20 years,North-East,Yes,Yes,Yes,Low,Good,No,2461,2848,2007,Dealer,22.72202,75.86746
+PV0650,3837113,SYN,Scheme 54,Apartment,969,969,2,5-10 years,West,Yes,Yes,Yes,Low,Poor,No,2957,3772,2017,Owner,22.727316,75.868884
+PV0651,9643770,SYN,Aerodrome Road,Villa,2068,2068,3,0-5 years,North,Yes,No,Yes,Medium,Good,No,2729,3238,2021,Owner,22.722928,75.800292
+PV0652,12931073,SYN,Palasia,Independent House,1917,1917,3,0-5 years,North-West,Yes,Yes,Yes,Low,Good,Yes,3478,5037,2020,Owner,22.725078,75.881576
+PV0653,4600165,SYN,Pipliyahana,Independent House,1269,1269,2,0-5 years,West,Yes,No,No,Low,Poor,No,2472,3081,2020,Dealer,22.699322,75.922782
+PV0654,4045592,SYN,Vijay Nagar,Apartment,872,872,2,0-5 years,North,Yes,No,Yes,Medium,Average,No,3181,4291,2024,Dealer,22.746107,75.904807
+PV0655,4427386,SYN,Pardesipura,Apartment,1531,1531,3,5-10 years,North-East,Yes,Yes,Yes,Low,Good,No,2291,2480,2015,Owner,22.764935,75.872306
+PV0656,11165043,SYN,AB Road,Villa,2272,2272,3,10-20 years,East,Yes,Yes,Yes,Low,Good,No,3073,4474,2013,Dealer,22.724358,75.913756
+PV0657,3488853,SYN,Kanadiya,Apartment,1450,1450,3,5-10 years,North-East,No,Yes,No,Medium,Average,No,2010,2016,2018,Dealer,22.802655,75.893988
+PV0658,3360410,SYN,LIG Colony,Independent House,1134,1134,2,0-5 years,East,No,Yes,No,Low,Good,No,2237,2388,2021,Dealer,22.733286,75.852946
+PV0659,2276285,SYN,Banganga,Independent House,829,829,1,5-10 years,South,No,No,Yes,High,Poor,Yes,2154,2371,2016,Owner,22.709316,75.827393
+PV0660,2163786,SYN,Limbodi,Plot,1192,1192,0,0-5 years,South,No,No,No,Medium,Good,No,1908,2055,2023,Owner,22.819205,75.912122
+PV0661,5878180,SYN,Scheme 54,Apartment,1331,1331,3,0-5 years,North-East,No,Yes,Yes,Medium,Excellent,No,2900,3956,2021,Owner,22.730947,75.867334
+PV0662,1915701,SYN,Pardesipura,Builder Floor,904,904,2,20+ years,North,Yes,No,Yes,Low,Poor,No,2338,2488,1995,Owner,22.767211,75.87281
+PV0663,4986961,SYN,Aerodrome Road,Villa,1514,1514,2,20+ years,West,Yes,Yes,Yes,Low,Poor,No,2750,3599,1994,Owner,22.722759,75.804073
+PV0664,1465694,SYN,Tilak Nagar,Builder Floor,542,542,1,10-20 years,North,No,Yes,Yes,Low,Good,No,2440,2777,2012,Dealer,22.719681,75.865227
+PV0665,1887983,SYN,Niranjanpur,Builder Floor,627,627,1,5-10 years,South,No,No,No,Medium,Good,Yes,2656,2944,2017,Dealer,22.756523,75.915044
+PV0666,2286395,SYN,Pardesipura,Apartment,919,919,2,10-20 years,North-West,Yes,Yes,Yes,Medium,Poor,Yes,2263,2496,2014,Dealer,22.767214,75.876388
+PV0667,3284064,SYN,Sudama Nagar,Independent House,1233,1233,2,5-10 years,North,No,No,No,High,Average,No,2193,2484,2017,Dealer,22.69154,75.83655
+PV0668,5249217,SYN,AB Road,Apartment,1182,1182,2,10-20 years,East,Yes,Yes,Yes,Medium,Excellent,Yes,3177,4363,2014,Owner,22.721074,75.911708
+PV0669,6144089,SYN,Rajendra Nagar,Apartment,1735,1735,3,0-5 years,East,No,No,Yes,High,Good,No,2673,3212,2022,Dealer,22.706199,75.862283
+PV0670,6831472,SYN,Rajendra Nagar,Independent House,2066,2066,3,10-20 years,North,Yes,No,No,High,Good,Yes,2594,2993,2014,Dealer,22.701915,75.862781
+PV0671,2686213,SYN,LIG Colony,Apartment,949,949,2,0-5 years,North-East,Yes,No,No,Medium,Poor,No,2263,2287,2023,Owner,22.729647,75.848753
+PV0672,4167181,SYN,AB Road,Apartment,919,919,2,5-10 years,North,Yes,Yes,Yes,Medium,Excellent,No,3057,4138,2016,Dealer,22.721087,75.914194
+PV0673,8134081,SYN,Vijay Nagar,Villa,1591,1591,2,10-20 years,East,Yes,No,Yes,Low,Excellent,Yes,3185,4760,2012,Dealer,22.743608,75.902384
+PV0674,1814680,SYN,Kanadiya,Plot,993,993,0,10-20 years,East,No,No,No,High,Average,Yes,2023,2365,2009,Dealer,22.803648,75.893045
+PV0675,2865310,SYN,Sudama Nagar,Apartment,1057,1057,2,0-5 years,South,No,No,No,High,Poor,No,2173,2427,2022,Dealer,22.693205,75.838744
+PV0676,2288784,SYN,Annapurna,Plot,1077,1077,0,5-10 years,East,No,No,No,High,Poor,Yes,2274,2628,2015,Dealer,22.682659,75.86684
+PV0677,3489079,SYN,Pardesipura,Independent House,1228,1228,2,0-5 years,West,Yes,No,No,High,Good,No,2328,2439,2021,Owner,22.763425,75.871153
+PV0678,5637367,SYN,Scheme 54,Apartment,1460,1460,3,5-10 years,South,Yes,Yes,Yes,Medium,Good,No,2873,3695,2015,Dealer,22.732718,75.872866
+PV0679,2562742,SYN,Tilak Nagar,Builder Floor,850,850,2,0-5 years,North,Yes,Yes,No,High,Poor,Yes,2364,2639,2021,Dealer,22.716786,75.866187
+PV0680,4261324,SYN,Rajendra Nagar,Independent House,1457,1457,2,20+ years,East,No,No,Yes,Medium,Average,No,2644,3315,2002,Dealer,22.702024,75.867795
+PV0681,3662907,SYN,MR 10,Apartment,1610,1610,3,20+ years,East,Yes,Yes,Yes,Low,Good,No,2574,2823,1993,Owner,22.770439,75.903786
+PV0682,15576522,SYN,Vijay Nagar,Apartment,2450,2450,4,0-5 years,North-East,Yes,No,Yes,Low,Excellent,No,3269,4927,2023,Owner,22.747495,75.898497
+PV0683,3655849,SYN,Vijay Nagar,Apartment,921,921,2,10-20 years,West,Yes,Yes,Yes,Low,Good,No,3269,4242,2012,Dealer,22.745955,75.903344
+PV0684,6578827,SYN,AB Road,Builder Floor,1229,1229,3,0-5 years,North,Yes,Yes,Yes,Medium,Average,No,3118,4418,2024,Owner,22.721272,75.909736
+PV0685,9874566,SYN,Palasia,Villa,1625,1625,2,5-10 years,North,Yes,Yes,Yes,Low,Excellent,No,3473,4822,2015,Dealer,22.726613,75.882257
+PV0686,5692947,SYN,Vijay Nagar,Independent House,1205,1205,2,5-10 years,South-East,Yes,No,Yes,Medium,Excellent,No,3237,4233,2015,Dealer,22.742092,75.902236
+PV0687,1983386,SYN,Sudama Nagar,Builder Floor,896,896,2,5-10 years,West,No,No,No,High,Poor,No,2259,2343,2019,Dealer,22.69038,75.841943
+PV0688,4186404,SYN,Aerodrome Road,Apartment,1377,1377,3,20+ years,South,Yes,Yes,Yes,Medium,Good,No,2871,3755,1990,Owner,22.723031,75.804681
+PV0689,4198143,SYN,MR 10,Apartment,1425,1425,3,20+ years,South,Yes,No,Yes,Medium,Good,Yes,2665,3272,2000,Dealer,22.772809,75.904294
+PV0690,3301000,SYN,Rajendra Nagar,Apartment,957,957,2,5-10 years,North,No,Yes,Yes,Medium,Good,No,2601,2881,2018,Owner,22.704045,75.865382
+PV0691,2244055,SYN,Nipania,Builder Floor,596,596,1,0-5 years,West,No,No,Yes,Medium,Average,No,2679,3503,2020,Owner,22.756175,75.920323
+PV0692,5176956,SYN,Mahalaxmi Nagar,Apartment,1526,1526,3,5-10 years,South-West,Yes,Yes,Yes,Low,Average,Yes,2549,2864,2019,Owner,22.711384,75.856322
+PV0693,3672322,SYN,Banganga,Independent House,1376,1376,2,0-5 years,North,No,No,Yes,Medium,Poor,No,2142,2384,2021,Owner,22.714219,75.826806
+PV0694,4132557,SYN,Rajendra Nagar,Apartment,1496,1496,3,20+ years,East,Yes,Yes,Yes,Low,Excellent,No,2556,2970,1990,Owner,22.701882,75.863372
+PV0695,4042029,SYN,Tilak Nagar,Independent House,1403,1403,2,10-20 years,North,Yes,No,Yes,Low,Good,No,2398,2566,2007,Dealer,22.720206,75.867601
+PV0696,3502982,SYN,MR 10,Apartment,1118,1118,2,5-10 years,North-East,No,No,No,Low,Average,Yes,2587,3201,2017,Dealer,22.772599,75.899022
+PV0697,9752399,SYN,Palasia,Apartment,1525,1525,3,0-5 years,South,Yes,Yes,Yes,Low,Excellent,No,3599,5559,2022,Owner,22.722465,75.88639
+PV0698,8601744,SYN,Scheme 54,Independent House,2265,2265,3,0-5 years,South-West,Yes,Yes,Yes,Medium,Good,No,2893,3544,2022,Owner,22.733425,75.872661
+PV0699,3354587,SYN,Niranjanpur,Apartment,1426,1426,3,20+ years,South-East,Yes,Yes,No,Medium,Poor,Yes,2547,3196,1996,Dealer,22.760794,75.913754
+PV0700,2521172,SYN,Kanadiya,Apartment,1086,1086,2,5-10 years,South-East,No,No,No,Medium,Good,Yes,2015,2128,2019,Owner,22.803458,75.891592
+PV0701,5968845,SYN,Palasia,Builder Floor,1012,1012,2,0-5 years,East,No,Yes,Yes,Low,Good,No,3395,5288,2021,Dealer,22.725697,75.880363
+PV0702,5832882,SYN,Bicholi Hapsi,Independent House,2506,2506,4,20+ years,North-East,Yes,No,Yes,High,Good,Yes,2124,2477,2001,Dealer,22.792514,75.941958
+PV0703,2658607,SYN,Pipliyahana,Apartment,866,866,2,0-5 years,North-East,No,No,Yes,High,Good,Yes,2490,2843,2024,Dealer,22.697239,75.918955
+PV0704,6261348,SYN,Scheme 54,Apartment,1458,1458,3,0-5 years,East,Yes,Yes,Yes,Low,Good,No,2931,3562,2024,Owner,22.731396,75.867516
+PV0705,10682220,SYN,Vijay Nagar,Villa,2117,2117,3,5-10 years,South,Yes,No,No,Low,Good,No,3226,4740,2019,Owner,22.741866,75.898939
+PV0706,4147646,SYN,Palasia,Builder Floor,633,633,1,5-10 years,North-East,Yes,Yes,Yes,Low,Poor,Yes,3560,5368,2018,Owner,22.725516,75.884419
+PV0707,7883693,SYN,Vijay Nagar,Builder Floor,1590,1590,3,0-5 years,South,Yes,No,Yes,Low,Good,No,3191,4521,2021,Dealer,22.74348,75.903986
+PV0708,4425415,SYN,MR 10,Independent House,1071,1071,2,0-5 years,North-East,No,Yes,Yes,Low,Good,Yes,2627,3193,2020,Owner,22.770547,75.905468
+PV0709,1966711,SYN,Rajendra Nagar,Apartment,590,590,1,0-5 years,North,No,Yes,Yes,Medium,Excellent,Yes,2578,2921,2022,Owner,22.703578,75.867674
+PV0710,6399132,SYN,AB Road,Apartment,1455,1455,3,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,3123,4133,2018,Dealer,22.721672,75.913861
+PV0711,5460496,SYN,AB Road,Apartment,1512,1512,3,10-20 years,West,Yes,Yes,Yes,Low,Average,No,3149,4027,2007,Owner,22.722516,75.915178
+PV0712,3698936,SYN,Vijay Nagar,Apartment,822,822,2,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,3254,4041,2017,Dealer,22.748744,75.898835
+PV0713,2894404,SYN,Super Corridor,Apartment,958,958,2,5-10 years,East,No,Yes,Yes,Medium,Good,No,2412,2733,2015,Dealer,22.790063,75.903671
+PV0714,2164754,SYN,Nipania,Builder Floor,800,800,2,20+ years,North-East,No,No,Yes,High,Good,No,2764,3169,2001,Dealer,22.757732,75.919683
+PV0715,5588059,SYN,Sudama Nagar,Apartment,1843,1843,4,0-5 years,North,No,No,No,High,Average,Yes,2143,2476,2021,Owner,22.69264,75.837631
+PV0716,7789041,SYN,Aerodrome Road,Builder Floor,2054,2054,4,5-10 years,South,Yes,No,Yes,Low,Good,No,2746,3564,2016,Dealer,22.717969,75.802104
+PV0717,4012657,SYN,Niranjanpur,Independent House,1252,1252,2,20+ years,North,Yes,No,Yes,Medium,Good,Yes,2673,3404,1990,Owner,22.758673,75.914009
+PV0718,14443914,SYN,Niranjanpur,Villa,3819,3819,4,5-10 years,South-East,No,No,Yes,Medium,Good,No,2590,3249,2017,Dealer,22.761413,75.915443
+PV0719,1657867,SYN,Silicon City,Independent House,670,670,1,20+ years,North,Yes,No,Yes,Medium,Average,Yes,2234,2443,1997,Dealer,22.7432,75.879541
+PV0720,12963892,SYN,Aerodrome Road,Villa,2642,2642,3,5-10 years,West,Yes,Yes,Yes,Low,Excellent,No,2878,3908,2018,Owner,22.720558,75.802358
+PV0721,19351012,SYN,AB Road,Villa,4044,4044,4,10-20 years,West,Yes,Yes,Yes,Low,Excellent,No,3116,4015,2011,Dealer,22.719631,75.914316
+PV0722,15393831,SYN,Palasia,Villa,2048,2048,3,0-5 years,North-East,Yes,Yes,No,Medium,Good,No,3491,5444,2022,Dealer,22.725009,75.880349
+PV0723,4630263,SYN,Pardesipura,Apartment,1580,1580,3,0-5 years,South,Yes,Yes,Yes,Medium,Poor,No,2266,2554,2024,Dealer,22.767425,75.874928
+PV0724,3322934,SYN,Rajendra Nagar,Apartment,1088,1088,2,10-20 years,North,Yes,No,Yes,Low,Average,No,2675,3020,2006,Owner,22.706415,75.86558
+PV0725,2463099,SYN,Sudama Nagar,Builder Floor,974,974,2,0-5 years,South,Yes,Yes,Yes,Medium,Average,No,2241,2415,2021,Owner,22.688231,75.837568
+PV0726,2754125,SYN,MR 10,Builder Floor,1001,1001,2,5-10 years,West,Yes,No,No,Low,Good,No,2523,2832,2018,Owner,22.767131,75.903715
+PV0727,14189956,SYN,Scheme 54,Villa,2651,2651,3,5-10 years,West,Yes,Yes,No,Medium,Good,No,2853,4213,2016,Owner,22.729886,75.870949
+PV0728,3232929,SYN,Pardesipura,Apartment,1103,1103,2,5-10 years,West,No,Yes,Yes,Medium,Excellent,No,2332,2690,2019,Dealer,22.7659,75.873198
+PV0729,3648397,SYN,Rajendra Nagar,Apartment,1038,1038,2,0-5 years,West,Yes,Yes,Yes,Low,Average,No,2529,3089,2024,Dealer,22.703619,75.862174
+PV0730,13591520,SYN,Vijay Nagar,Apartment,2333,2333,4,0-5 years,North,No,Yes,Yes,Low,Average,No,3206,4700,2023,Dealer,22.747774,75.902854
+PV0731,2645398,SYN,Bicholi Hapsi,Builder Floor,1161,1161,3,10-20 years,East,Yes,No,Yes,Medium,Good,No,2147,2248,2012,Owner,22.787252,75.938406
+PV0732,3089953,SYN,Pardesipura,Apartment,1029,1029,2,10-20 years,East,Yes,Yes,Yes,High,Excellent,Yes,2294,2619,2007,Owner,22.764608,75.8727
+PV0733,5690939,SYN,Scheme 54,Apartment,1492,1492,3,0-5 years,West,Yes,Yes,Yes,Medium,Average,No,2963,3515,2024,Dealer,22.73132,75.870951
+PV0734,10781462,SYN,AB Road,Villa,2454,2454,3,5-10 years,South-East,No,Yes,Yes,Low,Good,No,3118,3746,2019,Owner,22.718056,75.910521
+PV0735,9010178,SYN,Vijay Nagar,Independent House,1761,1761,3,0-5 years,South,Yes,Yes,Yes,Medium,Good,Yes,3269,4271,2021,Owner,22.74759,75.899822
+PV0736,2169824,SYN,Pipliyahana,Independent House,718,718,1,5-10 years,North-East,No,Yes,No,Low,Good,Yes,2553,2659,2018,Dealer,22.695417,75.917979
+PV0737,2884818,SYN,Mahalaxmi Nagar,Builder Floor,939,939,2,0-5 years,North-West,Yes,Yes,Yes,Medium,Excellent,No,2498,2768,2022,Owner,22.711494,75.858023
+PV0738,6200550,SYN,Niranjanpur,Builder Floor,1864,1864,4,0-5 years,North-East,Yes,No,No,High,Good,No,2532,3029,2022,Owner,22.761618,75.915117
+PV0739,5306923,SYN,Bhawarkuan,Apartment,1569,1569,3,0-5 years,West,No,No,Yes,Low,Good,No,2566,3150,2022,Dealer,22.692674,75.840232
+PV0740,8563864,SYN,Scheme 54,Apartment,1649,1649,3,0-5 years,East,Yes,Yes,No,Medium,Excellent,No,2986,4280,2023,Owner,22.727466,75.868647
+PV0741,2543097,SYN,Super Corridor,Apartment,1023,1023,2,10-20 years,South-West,Yes,Yes,Yes,High,Good,No,2371,2756,2006,Dealer,22.784511,75.904591
+PV0742,2829858,SYN,Pardesipura,Builder Floor,941,941,2,0-5 years,North-West,No,No,Yes,Medium,Good,No,2345,2628,2021,Dealer,22.765635,75.872204
+PV0743,7595669,SYN,Bhawarkuan,Independent House,2132,2132,3,10-20 years,North-West,No,Yes,Yes,High,Average,No,2542,3359,2005,Dealer,22.692556,75.841036
+PV0744,4967568,SYN,Aerodrome Road,Builder Floor,1650,1650,3,10-20 years,West,Yes,Yes,Yes,Low,Good,Yes,2720,3321,2009,Dealer,22.72317,75.803519
+PV0745,4909642,SYN,Vijay Nagar,Apartment,907,907,2,0-5 years,East,Yes,Yes,No,Medium,Good,No,3123,4894,2022,Dealer,22.745784,75.900359
+PV0746,2446601,SYN,Super Corridor,Builder Floor,975,975,2,10-20 years,South,Yes,Yes,Yes,Medium,Average,No,2369,2841,2008,Dealer,22.789751,75.898259
+PV0747,3136998,SYN,Annapurna,Apartment,979,979,2,5-10 years,North-East,No,Yes,Yes,High,Average,No,2335,2710,2015,Owner,22.688219,75.86061
+PV0748,1697562,SYN,Rajendra Nagar,Builder Floor,639,639,1,20+ years,South-East,Yes,No,Yes,Medium,Average,No,2547,3073,1991,Dealer,22.706001,75.866666
+PV0749,18987328,SYN,Aerodrome Road,Villa,4177,4177,4,5-10 years,West,Yes,No,Yes,Medium,Average,No,2832,3847,2015,Dealer,22.724969,75.803141
+PV0750,11585997,SYN,Palasia,Independent House,1949,1949,3,0-5 years,West,Yes,Yes,Yes,Low,Good,No,3524,4642,2023,Dealer,22.72083,75.884143
+PV0751,1841324,SYN,Silicon City,Independent House,859,859,1,20+ years,East,No,Yes,No,Medium,Average,Yes,2331,2637,1996,Owner,22.739859,75.881254
+PV0752,1858013,SYN,Kanadiya,Independent House,738,738,1,0-5 years,West,No,No,Yes,Low,Good,No,1984,2345,2020,Dealer,22.800602,75.891306
+PV0753,4753824,SYN,MR 10,Independent House,1357,1357,2,0-5 years,East,Yes,Yes,No,Medium,Excellent,Yes,2557,2959,2021,Dealer,22.77229,75.900916
+PV0754,4175410,SYN,Silicon City,Independent House,1309,1309,2,5-10 years,West,No,Yes,Yes,Medium,Average,Yes,2250,2675,2018,Dealer,22.74109,75.879675
+PV0755,2665383,SYN,Pipliyahana,Apartment,938,938,2,5-10 years,North-East,No,Yes,No,Low,Average,Yes,2527,2843,2015,Dealer,22.697815,75.917399
+PV0756,7458884,SYN,Aerodrome Road,Independent House,1668,1668,3,0-5 years,North,No,Yes,Yes,Low,Good,No,2871,3266,2024,Dealer,22.721094,75.799375
+PV0757,2474448,SYN,Pardesipura,Apartment,1038,1038,2,10-20 years,West,Yes,No,No,Low,Good,No,2358,2846,2005,Owner,22.765959,75.873106
+PV0758,3239883,SYN,Pardesipura,Builder Floor,1238,1238,3,5-10 years,South-West,Yes,No,Yes,Low,Average,No,2311,2486,2018,Dealer,22.761965,75.876812
+PV0759,2368028,SYN,LIG Colony,Independent House,1189,1189,2,20+ years,South,Yes,Yes,No,Medium,Average,Yes,2140,2325,2001,Owner,22.730481,75.848301
+PV0760,2599614,SYN,AB Road,Apartment,637,637,1,0-5 years,West,Yes,No,Yes,Low,Excellent,No,3179,3938,2020,Dealer,22.719381,75.914178
+PV0761,2038089,SYN,LIG Colony,Plot,1120,1120,0,5-10 years,South,No,No,No,Medium,Good,Yes,2240,2280,2017,Owner,22.732646,75.847222
+PV0762,2068202,SYN,MR 10,Apartment,651,651,1,5-10 years,North,Yes,Yes,No,Low,Good,No,2595,2816,2017,Owner,22.771928,75.901382
+PV0763,1135299,SYN,LIG Colony,Apartment,646,646,1,20+ years,North,Yes,Yes,No,Low,Good,No,2221,2213,2001,Owner,22.728494,75.849594
+PV0764,2731202,SYN,Pipliyahana,Apartment,948,948,2,10-20 years,West,No,No,Yes,Medium,Good,No,2536,2844,2009,Owner,22.700016,75.918474
+PV0765,8289645,SYN,Scheme 54,Villa,1623,1623,2,5-10 years,East,Yes,No,Yes,Low,Excellent,No,2820,4060,2015,Dealer,22.729369,75.868019
+PV0766,9520263,SYN,MR 10,Independent House,3155,3155,4,10-20 years,East,No,No,Yes,Medium,Good,Yes,2564,2832,2014,Dealer,22.770757,75.9002
+PV0767,4520371,SYN,Pardesipura,Apartment,1566,1566,3,0-5 years,West,Yes,No,Yes,Low,Good,Yes,2267,2474,2022,Owner,22.761927,75.872136
+PV0768,1792441,SYN,Limbodi,Apartment,901,901,2,5-10 years,East,No,No,No,Medium,Good,No,1900,2057,2017,Dealer,22.819511,75.907161
+PV0769,8027562,SYN,Aerodrome Road,Apartment,2420,2420,4,20+ years,East,Yes,Yes,Yes,Low,Excellent,No,2801,3435,1995,Dealer,22.720651,75.801697
+PV0770,5675548,SYN,Vijay Nagar,Independent House,1241,1241,2,5-10 years,North,Yes,Yes,Yes,Medium,Excellent,No,3185,4102,2018,Dealer,22.743592,75.904511
+PV0771,4336945,SYN,Super Corridor,Builder Floor,1363,1363,3,0-5 years,East,Yes,Yes,No,Medium,Average,No,2470,2776,2020,Owner,22.789067,75.901867
+PV0772,3982343,SYN,Niranjanpur,Builder Floor,1352,1352,3,10-20 years,North,No,Yes,No,Low,Good,No,2547,3254,2011,Dealer,22.756568,75.91744
+PV0773,11663416,SYN,Palasia,Independent House,1810,1810,3,0-5 years,North-West,Yes,No,Yes,Low,Excellent,No,3530,5449,2022,Dealer,22.727028,75.887267
+PV0774,5642384,SYN,Aerodrome Road,Apartment,1604,1604,3,10-20 years,North-East,Yes,Yes,No,Medium,Good,No,2830,3471,2013,Dealer,22.724722,75.798176
+PV0775,4837995,SYN,AB Road,Builder Floor,954,954,2,5-10 years,East,Yes,Yes,Yes,Low,Excellent,No,3180,4379,2019,Dealer,22.722637,75.910603
+PV0776,4769044,SYN,Rajendra Nagar,Apartment,1375,1375,3,0-5 years,West,Yes,Yes,No,Medium,Average,No,2610,3031,2023,Owner,22.702053,75.866454
+PV0777,4136983,SYN,Mahalaxmi Nagar,Apartment,1097,1097,2,0-5 years,North-East,Yes,No,Yes,High,Excellent,No,2572,2907,2021,Dealer,22.715817,75.856691
+PV0778,1808859,SYN,MR 10,Apartment,609,609,1,20+ years,East,No,No,Yes,Low,Good,Yes,2567,3102,2000,Dealer,22.766539,75.904316
+PV0779,2477684,SYN,Super Corridor,Apartment,1029,1029,2,20+ years,North-East,No,No,No,Medium,Average,No,2424,2969,1997,Owner,22.785124,75.900594
+PV0780,1908334,SYN,Bicholi Hapsi,Plot,1036,1036,0,20+ years,North-West,No,No,No,Medium,Poor,Yes,2068,2370,1995,Dealer,22.792595,75.940891
+PV0781,7091394,SYN,Nipania,Villa,1579,1579,2,0-5 years,North-West,Yes,Yes,No,Medium,Average,Yes,2636,3301,2020,Dealer,22.754084,75.920753
+PV0782,3312919,SYN,Banganga,Apartment,1339,1339,3,5-10 years,North,No,No,No,Medium,Poor,Yes,2042,2420,2017,Owner,22.712202,75.827678
+PV0783,8623756,SYN,Palasia,Apartment,1498,1498,3,0-5 years,East,Yes,No,Yes,Low,Good,No,3461,5561,2022,Owner,22.725128,75.885494
+PV0784,2465511,SYN,Banganga,Plot,1212,1212,0,5-10 years,East,No,No,Yes,High,Poor,Yes,2130,2339,2016,Owner,22.713793,75.827086
+PV0785,3440681,SYN,Scheme 54,Apartment,851,851,2,0-5 years,East,Yes,Yes,Yes,Low,Excellent,No,2900,3529,2024,Dealer,22.732764,75.872395
+PV0786,4611149,SYN,Bhawarkuan,Builder Floor,1218,1218,3,5-10 years,North-East,No,Yes,Yes,Low,Poor,No,2529,3167,2017,Owner,22.698737,75.840937
+PV0787,3240843,SYN,Scheme 54,Builder Floor,793,793,2,0-5 years,North,Yes,Yes,Yes,Medium,Average,No,2849,3600,2023,Owner,22.734091,75.869809
+PV0788,3727519,SYN,Niranjanpur,Apartment,1405,1405,3,20+ years,East,Yes,Yes,Yes,High,Poor,No,2535,3223,2003,Owner,22.761629,75.918076
+PV0789,3854547,SYN,Super Corridor,Independent House,1208,1208,2,5-10 years,North,Yes,Yes,Yes,High,Average,No,2454,2689,2019,Dealer,22.79083,75.899871
+PV0790,6041624,SYN,AB Road,Apartment,1393,1393,3,5-10 years,West,Yes,Yes,Yes,High,Excellent,No,3090,4320,2017,Dealer,22.724691,75.915054
+PV0791,7172020,SYN,Niranjanpur,Apartment,2130,2130,4,10-20 years,East,Yes,Yes,Yes,Medium,Excellent,Yes,2640,3084,2010,Dealer,22.757169,75.911981
+PV0792,7539160,SYN,Palasia,Apartment,1485,1485,3,5-10 years,East,Yes,Yes,Yes,Medium,Excellent,Yes,3571,4746,2015,Owner,22.722203,75.883064
+PV0793,2649509,SYN,Annapurna,Apartment,884,884,2,5-10 years,South,Yes,Yes,Yes,Medium,Average,Yes,2266,2384,2019,Dealer,22.684486,75.861011
+PV0794,7057462,SYN,Vijay Nagar,Apartment,1328,1328,3,5-10 years,South-East,Yes,Yes,Yes,Low,Good,No,3233,4721,2016,Dealer,22.743561,75.901821
+PV0795,3086263,SYN,Sudama Nagar,Apartment,1291,1291,3,5-10 years,North-West,No,No,No,Low,Good,Yes,2245,2296,2019,Owner,22.687687,75.838729
+PV0796,7347267,SYN,Scheme 54,Villa,1220,1220,2,0-5 years,East,Yes,Yes,Yes,Low,Poor,No,2816,3921,2020,Dealer,22.732582,75.86907
+PV0797,13822836,SYN,Scheme 54,Villa,2310,2310,3,5-10 years,North,Yes,Yes,Yes,Low,Poor,Yes,2953,4066,2015,Dealer,22.728933,75.870963
+PV0798,7775961,SYN,Aerodrome Road,Villa,1589,1589,2,10-20 years,North,Yes,No,Yes,Low,Good,No,2755,3865,2009,Dealer,22.721619,75.80073
+PV0799,8714941,SYN,Mahalaxmi Nagar,Independent House,2367,2367,4,5-10 years,South-East,Yes,Yes,Yes,Medium,Excellent,Yes,2529,3136,2018,Dealer,22.712497,75.855937
+PV0800,5492009,SYN,Scheme 54,Apartment,1488,1488,3,10-20 years,North,Yes,Yes,Yes,Low,Average,No,2976,3493,2008,Dealer,22.731552,75.86797

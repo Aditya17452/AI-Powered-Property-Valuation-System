@@ -1,0 +1,21 @@
+[
+  "Built_up_area_sqfeet",
+  "Log_Area",
+  "BHK",
+  "Locality_Enc",
+  "Dist_City_Center",
+  "Latitude",
+  "Longitude",
+  "Registry_Rate_per_sqft",
+  "Market_Rate_per_sqft",
+  "Market_Premium_Ratio",
+  "Listing_Rate",
+  "Age_Numeric",
+  "Amenity_Score",
+  "Facing_Score",
+  "Road_Score",
+  "Crime_Score",
+  "Future_Projects_Flag",
+  "Is_Owner",
+  "Property_Type_Enc"
+]
