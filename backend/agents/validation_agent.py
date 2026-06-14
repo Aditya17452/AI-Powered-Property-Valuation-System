@@ -24,6 +24,8 @@ def run(prop: dict) -> dict:
     property_type = prop.get("property_type", "Apartment")
     if area > 8000 and property_type == "Apartment":
         warnings.append("Apartment above 8000 sqft is unusual")
+    if property_type == "Apartment" and area > 5000:
+        warnings.append(f"{int(area)} sqft is unusually large for an Apartment — did you mean Independent House or Villa?")
 
     valid = len(warnings) == 0
     confidence = "High" if len(warnings) == 0 else ("Medium" if len(warnings) == 1 else "Low")

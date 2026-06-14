@@ -2,13 +2,24 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from typing import Optional
+from contextlib import asynccontextmanager
 
 from agents.validation_agent import run as validation_run
 from agents.valuation_agent import run as valuation_run
 from agents.explanation_agent import run as explanation_run
 import config
 
-app = FastAPI()
+from auth.database import init_db
+from auth.routes import router as auth_router
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    init_db()
+    yield
+
+
+app = FastAPI(lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -17,6 +28,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+app.include_router(auth_router)
+
 
 
 class PropertyInput(BaseModel):

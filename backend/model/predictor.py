@@ -15,27 +15,33 @@ class Predictor:
         self._load()
 
     def _load(self):
+        # backend_dir is the parent of this file's parent (model/ -> backend/)
+        backend_dir = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
+        dataset_dir = os.path.normpath(os.path.join(backend_dir, "..", "Dataset"))
+
         if self.model is None:
-            model_path = os.path.join(os.path.dirname(__file__), "..", config.MODEL_PATH)
-            model_path = os.path.normpath(model_path)
+            # Try config path first (relative to backend dir), then fallback to Dataset/
+            model_path = os.path.normpath(os.path.join(backend_dir, config.MODEL_PATH))
+            if not os.path.exists(model_path):
+                model_path = os.path.join(dataset_dir, "property_valuation_model.pkl")
+            if not os.path.exists(model_path):
+                # Try the .cbm CatBoost model in backend dir
+                model_path = os.path.join(backend_dir, "vigyan_nagar_price_model.cbm")
             self.model = joblib.load(model_path)
         if self.encoders is None:
-            try:
-                enc_path = os.path.join(os.path.dirname(__file__), "..", config.ENCODERS_PATH)
-                enc_path = os.path.normpath(enc_path)
-                self.encoders = joblib.load(enc_path)
-            except Exception:
-                # fallback to Dataset path
-                enc_path = os.path.join(os.path.dirname(__file__), "..", "..", "Dataset", "label_encoders.pkl")
-                enc_path = os.path.normpath(enc_path)
-                self.encoders = joblib.load(enc_path)
+            enc_path = os.path.normpath(os.path.join(backend_dir, config.ENCODERS_PATH))
+            if not os.path.exists(enc_path):
+                enc_path = os.path.join(dataset_dir, "label_encoders.pkl")
+            self.encoders = joblib.load(enc_path)
         if self.feature_names is None:
-            fp = os.path.join(os.path.dirname(__file__), "..", config.FEATURES_PATH)
-            fp = os.path.normpath(fp)
+            fp = os.path.normpath(os.path.join(backend_dir, config.FEATURES_PATH))
             if not os.path.exists(fp):
-                fp = os.path.join(os.path.dirname(__file__), "..", "..", "Dataset", "feature_names.json")
-            with open(fp, "r", encoding="utf-8") as f:
-                self.feature_names = json.load(f)
+                fp = os.path.join(dataset_dir, "feature_names.json")
+            if os.path.exists(fp):
+                with open(fp, "r", encoding="utf-8") as f:
+                    self.feature_names = json.load(f)
+            else:
+                self.feature_names = []
 
     def predict(self, prop: dict) -> int:
         # feature engineering
@@ -116,4 +122,16 @@ class Predictor:
         except Exception:
             log_pred = float(self.model.predict(X))
         pred = int(np.expm1(log_pred))
+
+        # ── sanity clamp ──────────────────────────────────────────────────────
+        # XGBoost extrapolates poorly in log-space at the low end of the price
+        # distribution (sparse localities like Rau, Limbodi, Banganga, etc.).
+        # After expm1(), a small log error compounds multiplicatively, so we
+        # clamp the raw prediction to [65 %, 150 %] of the locality market total.
+        locality_avg_total = market_rate * area
+        min_val = locality_avg_total * 0.65
+        max_val = locality_avg_total * 1.50
+        pred = int(max(min_val, min(pred, max_val)))
+        # ─────────────────────────────────────────────────────────────────────
+
         return pred

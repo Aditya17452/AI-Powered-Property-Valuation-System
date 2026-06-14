@@ -13,7 +13,7 @@ export function About() {
     { name:'Tailwind CSS', desc:'UI styling', icon:'🎨' },
   ]
   return (
-    <div className="page" style={{ paddingTop: 100 }}>
+    <div className="page">
       <div className="bg-mesh" />
       <div className="container" style={{ paddingBottom: 100 }}>
 

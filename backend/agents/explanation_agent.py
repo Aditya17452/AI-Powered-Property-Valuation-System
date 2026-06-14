@@ -37,14 +37,15 @@ In 3-4 sentences, explain why this property has this valuation and what factors 
     if Groq is not None and config.GROQ_API_KEY:
         try:
             client = Groq(api_key=config.GROQ_API_KEY)
-            # Use a simple generate call; if API differs, wrap in try/except
-            response = client.generate(model="llama3-8b-8192", prompt=system_prompt + "\n\n" + user_prompt, max_tokens=200)
-            # response may have .text or ['choices'] depending on SDK; try common patterns
-            if hasattr(response, "text"):
-                return response.text.strip()
-            if isinstance(response, dict) and "choices" in response:
-                return response["choices"][0]["text"].strip()
-            return str(response)
+            response = client.chat.completions.create(
+                model="llama3-8b-8192",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
+                max_tokens=200,
+            )
+            return response.choices[0].message.content.strip()
         except Exception:
             pass
 

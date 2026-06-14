@@ -13,7 +13,7 @@ export function Contact() {
   }
 
   return (
-    <div className="page" style={{ paddingTop: 100 }}>
+    <div className="page">
       <div className="bg-mesh" />
       <div className="container" style={{ paddingBottom: 100 }}>
 
@@ -37,7 +37,7 @@ export function Contact() {
               { icon:'📍', label:'Location', val:'Indore, Madhya Pradesh, India', href: null },
             ].map(c => (
               <div key={c.label} className="card" style={{ padding: 24, display:'flex', gap: 16, alignItems:'center' }}>
-                <div style={{ width:48, height:48, borderRadius:14, background:'rgba(59,130,246,0.15)', border:'1px solid rgba(59,130,246,0.3)', display:'flex', alignItems:'center', justifyContent:'center', fontSize:'1.4rem', flexShrink:0 }}>{c.icon}</div>
+                <div style={{ width:48, height:48, borderRadius:14, background:'rgba(220,38,38,0.12)', border:'1px solid rgba(220,38,38,0.3)', display:'flex', alignItems:'center', justifyContent:'center', fontSize:'1.4rem', flexShrink:0 }}>{c.icon}</div>
                 <div>
                   <div style={{ fontSize:'0.75rem', color:'var(--gray)', fontWeight:600, textTransform:'uppercase', letterSpacing:'0.08em', marginBottom: 4 }}>{c.label}</div>
                   {c.href

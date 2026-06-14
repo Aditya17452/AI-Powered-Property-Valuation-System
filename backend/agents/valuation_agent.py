@@ -6,6 +6,7 @@ predictor = Predictor()
 def run(prop: dict) -> dict:
     predicted_value = predictor.predict(prop)
     area = float(prop.get("area_sqft", prop.get("area", 1)))
+    # predicted_value is already clamped in predictor.py — recompute per-sqft from it
     predicted_per_sqft = int(predicted_value // area) if area else 0
     confidence_band = {"low": int(predicted_value * 0.95), "high": int(predicted_value * 1.05)}
     locality = prop.get("locality")

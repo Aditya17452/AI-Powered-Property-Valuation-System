@@ -8,7 +8,10 @@ scikit-learn
 groq
 python-dotenv
 shap
-fastapi
-uvicorn
 catboost
-pandas
+passlib[bcrypt]
+bcrypt==4.0.1
+python-jose[cryptography]
+sqlalchemy
+python-multipart
+email-validator

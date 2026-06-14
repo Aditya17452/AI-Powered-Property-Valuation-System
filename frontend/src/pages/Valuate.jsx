@@ -1,5 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
+import { Link } from 'react-router-dom'
 import { predictProperty, getLocalities } from '../api/valuationApi'
+import { useAuth } from '../context/AuthContext'
 
 // ── Agent Status Bar ───────────────────────────────────────────────────────
 function AgentStatusBar({ status }) {
@@ -99,6 +101,7 @@ const initialForm = {
 }
 
 export default function Valuate() {
+  const { user } = useAuth()
   const [form, setForm] = useState(initialForm)
   const [loading, setLoading] = useState(false)
   const [result, setResult] = useState(null)
@@ -155,9 +158,19 @@ export default function Valuate() {
   )
 
   return (
-    <div className="page" style={{ paddingTop: 100 }}>
+    <div className="page">
       <div className="bg-mesh" />
       <div className="container" style={{ paddingBottom: 80 }}>
+
+        {!user && (
+          <div className="auth-banner">
+            <span>💡</span>
+            <span>
+              <Link to="/login" style={{ color: 'inherit', fontWeight: 600, textDecoration: 'underline' }}>Sign in</Link>
+              {' '}to save your valuation history across sessions.
+            </span>
+          </div>
+        )}
 
         <div style={{ textAlign:'center', marginBottom: 48 }}>
           <div className="label" style={{ marginBottom: 10 }}>AI Valuation Engine</div>
@@ -217,7 +230,7 @@ export default function Valuate() {
                   <label className="form-label">Owner Type</label>
                   <div style={{ display:'flex', gap: 10, marginTop: 4 }}>
                     {['Owner','Dealer'].map(o => (
-                      <button key={o} onClick={() => set('owner_type', o)} style={{
+                      <button key={o} type="button" onClick={() => set('owner_type', o)} style={{
                         flex: 1, padding:'10px', borderRadius: 10, cursor:'pointer',
                         background: form.owner_type === o ? 'rgba(59,130,246,0.2)' : 'rgba(255,255,255,0.05)',
                         border: `1.5px solid ${form.owner_type === o ? 'var(--blue-light)' : 'rgba(255,255,255,0.1)'}`,
