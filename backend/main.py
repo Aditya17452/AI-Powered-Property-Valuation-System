@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends, Header
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from typing import Optional
@@ -11,6 +11,16 @@ import config
 
 from auth.database import init_db
 from auth.routes import router as auth_router
+from auth.auth_utils import decode_access_token
+
+def get_current_user(authorization: str = Header(None)):
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Not authenticated")
+    token = authorization.split(" ")[1]
+    payload = decode_access_token(token)
+    if not payload:
+        raise HTTPException(status_code=401, detail="Invalid or expired token")
+    return payload
 
 
 @asynccontextmanager
@@ -53,7 +63,7 @@ class PropertyInput(BaseModel):
 
 
 @app.post("/api/predict")
-async def predict(prop: PropertyInput):
+async def predict(prop: PropertyInput, user: dict = Depends(get_current_user)):
     data = prop.dict()
     # step 1: validation
     validation = validation_run(data)

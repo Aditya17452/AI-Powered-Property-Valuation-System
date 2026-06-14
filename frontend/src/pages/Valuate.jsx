@@ -162,16 +162,6 @@ export default function Valuate() {
       <div className="bg-mesh" />
       <div className="container" style={{ paddingBottom: 80 }}>
 
-        {!user && (
-          <div className="auth-banner">
-            <span>💡</span>
-            <span>
-              <Link to="/login" style={{ color: 'inherit', fontWeight: 600, textDecoration: 'underline' }}>Sign in</Link>
-              {' '}to save your valuation history across sessions.
-            </span>
-          </div>
-        )}
-
         <div style={{ textAlign:'center', marginBottom: 48 }}>
           <div className="label" style={{ marginBottom: 10 }}>AI Valuation Engine</div>
           <h1 className="section-title fade-up">Get Your <span className="text-gradient">Property Valuation</span></h1>

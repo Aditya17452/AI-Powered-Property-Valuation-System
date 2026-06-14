@@ -3,7 +3,10 @@ import axios from 'axios'
 const BASE_URL = "http://localhost:8000"
 
 export const predictProperty = async (formData) => {
-  const response = await axios.post(`${BASE_URL}/api/predict`, formData)
+  const token = localStorage.getItem('iv_token')
+  const response = await axios.post(`${BASE_URL}/api/predict`, formData, {
+    headers: token ? { Authorization: `Bearer ${token}` } : {}
+  })
   return response.data
 }
 
