@@ -314,7 +314,7 @@ sample = pd.DataFrame({
     "Predicted (₹)": y_pred[:8],
     "Error %":       np.abs((y_true.values[:8] - y_pred[:8]) / y_true.values[:8]) * 100
 })
-print(sample.applymap(lambda x: f"₹{x:,.0f}" if x > 100 else f"{x:.1f}%").to_string())
+print(sample.apply(lambda col: col.map(lambda x: f"₹{x:,.0f}" if x > 100 else f"{x:.1f}%")).to_string())
 
 # ── 10. FEATURE IMPORTANCE PLOT ───────────────────────────────────────────────
 

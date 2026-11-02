@@ -12,3 +12,7 @@ __pycache__/
 backend/__pycache__/
 
 .env
+# Local databases and scraper debug output
+*.db
+Dataset/*debug*.html
+Dataset/headless_response.html

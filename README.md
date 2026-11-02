@@ -1,17 +1,90 @@
+# IntelliValue — AI Property Valuation for Indore
 
-# IntelliValue — Indore Property Valuation System
+IntelliValue estimates the fair market value of a residential property in Indore. A user enters the property's details; a three-step agent pipeline validates the input, predicts the price with an XGBoost model trained on Indore locality data, and uses an LLM to explain in plain language what drove the valuation — including whether the asking price looks over- or under-valued.
 
-Quick start
+---
 
-Backend:
+## How it works
+
+```mermaid
+flowchart LR
+    U[Property details<br/>React form] --> API[FastAPI<br/>POST /api/predict]
+    API --> V1[Validation agent<br/>sanity checks, price vs locality]
+    V1 --> V2[Valuation agent<br/>XGBoost price model]
+    V2 --> V3[Explanation agent<br/>Groq Llama 3.1]
+    V3 --> R[Value, ₹/sqft, confidence band,<br/>verdict, explanation]
+```
+
+1. **Validation agent** — flags unrealistic inputs (e.g. a 3 BHK under 600 sq ft, more than 5 BHK, an apartment over 8,000 sq ft) and listing prices far outside the locality's range, and sets a confidence level.
+2. **Valuation agent** — engineers features and runs the XGBoost model to predict total value and price per sq ft, adds a ±5% confidence band, and compares the result with the locality average to give a verdict.
+3. **Explanation agent** — sends the prediction and key factors to an LLM on Groq for a 3–4 sentence explanation, with a rule-based fallback if the LLM is unavailable.
+
+## Model
+
+| | |
+|---|---|
+| Algorithm | XGBoost regressor on log-transformed price |
+| Data | 900 cleaned records across 26 Indore localities (`Dataset/indore_full_dataset.csv`) |
+| Features | 19 — area, BHK, locality, distance to city centre, coordinates, registry (circle) rate, market rate, listing rate, property age, amenities, facing, road connectivity, crime level, upcoming projects, owner vs broker, property type |
+| Split | 80 / 20 train–test (720 / 180) |
+| Explainability | SHAP values and feature-importance plot generated during training |
+
+Test-set results from running `Dataset/train_model.py`:
+
+| MAE | RMSE | R² | MAPE | 5-fold CV R² |
+|---|---|---|---|---|
+| ₹1.14 lakh | ₹1.64 lakh | 0.996 | 2.2% | 0.994 ± 0.003 |
+
+> Market and listing rates per sq ft are input features, so the model learns how a specific property should be priced relative to its area's going rate. The dataset combines collected locality data with records generated from MP IGRS circle rates and market research (`Dataset/genrate_dataset.py`).
+
+## Features
+
+- Valuation form for 26 Indore localities with property, location and neighbourhood attributes
+- Predicted value, price per sq ft, confidence band and over/under-valuation verdict
+- Natural-language explanation of the valuation
+- Input validation warnings
+- Sign-up / login with bcrypt-hashed passwords and JWT
+
+## Tech stack
+
+- **ML:** XGBoost, scikit-learn, pandas, NumPy, SHAP
+- **Backend:** Python, FastAPI, SQLAlchemy (SQLite), python-jose (JWT), passlib/bcrypt, Groq
+- **Frontend:** React, Vite, Tailwind CSS, Framer Motion, Axios
+- **Data collection:** Playwright + BeautifulSoup scraper for 99acres listings
+
+## API
+
+| Method | Endpoint | Purpose |
+|---|---|---|
+| POST | `/api/auth/signup` | Create an account |
+| POST | `/api/auth/login` | Get a JWT |
+| GET | `/api/auth/me` | Current user |
+| POST | `/api/predict` | Validate, value and explain a property (requires `Authorization: Bearer <token>`) |
+| GET | `/api/localities` | Supported localities with circle and market rates |
+| GET | `/api/health` | Health check |
+
+## Run locally
+
+**Backend**
 
 ```bash
 cd backend
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
 ```
 
-Frontend:
+Create `backend/.env`:
+
+```env
+GROQ_API_KEY=your_groq_key        # optional — falls back to a template explanation
+JWT_SECRET_KEY=a_long_random_string
+```
+
+The SQLite user database is created automatically on first start.
+
+**Frontend**
 
 ```bash
 cd frontend
@@ -19,91 +92,28 @@ npm install
 npm run dev
 ```
 
-Notes:
-- The backend loads the trained model from `../Dataset/property_valuation_model.pkl` — do not retrain or replace this file.
-- Ensure your `.env` contains `GROQ_API_KEY` for LLM explanations.
-- The frontend dev server proxies `/api` to `http://localhost:8000`.
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+The Vite dev server proxies `/api` to `http://localhost:8000`.
 
-## Getting Started
-
-First, run the development server:
+**Retrain the model (optional)**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+cd Dataset
+pip install pandas numpy scikit-learn xgboost shap matplotlib
+python train_model.py
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This overwrites `property_valuation_model.pkl`, `label_encoders.pkl` and `feature_names.json`, and writes `feature_importance.png` and SHAP plots.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-# AI Powered Property Valuation System
-
-A full-stack app to estimate residential property values using a trained model and web UI. This repository contains a Python FastAPI backend that serves a price prediction model and a modern frontend (React/Vite + Next-style structure) for user interaction, data collection, and agent-driven explanations.
-
-## Key features
-- ML-based property valuation using a saved model (`vigyan_nagar_price_model.cbm`).
-- Backend API for valuations, explanations, and validation (`backend/`).
-- Frontend UI for entering property details and viewing results (`frontend/` / `src/`).
-- Agents for explanation, validation and valuation logic (`backend/agents/`).
-- Dataset scripts and training utilities under `Dataset/`.
-
-## Repository layout
-- `backend/` — FastAPI app, agents, model loader, and related scripts.
-  - `main.py` — API entrypoint.
-  - `config.py` — configuration values.
-  - `agents/` — `explanation_agent.py`, `validation_agent.py`, `valuation_agent.py`.
-  - `vigyan_nagar_price_model.cbm` — serialized model used for predictions.
-- `frontend/` — UI code (React, Vite) and components.
-  - `src/` — React app (legacy) and `app/` (newer Next-style pages/components).
-- `Dataset/` — data collection, scrapers, training scripts, and CSV datasets.
-- `model/` — model helper (e.g., `predictor.py`).
-- `README.md` — this file.
-
-## Tech stack
-- Backend: Python, FastAPI, Uvicorn, common ML libs (scikit-learn / lightgbm / custom model loader).
-- Frontend: React, Vite, Tailwind CSS (and Next-style app directory in `frontend/app`).
-- Data & training: pandas, scikit-learn (training scripts in `Dataset/`).
-
-## Getting started
-
-Prerequisites
-- Python 3.8+ and pip
-- Node 16+ and npm/yarn
-- Git (for cloning)
-
-Backend (API)
-1. Create and activate a Python virtual environment:
-   - Windows (PowerShell)
-     ```powershell
-     python -m venv .venv
-     .\.venv\Scripts\Activate.ps1
-     ```
-2. Install backend dependencies:
-   ```bash
-   cd backend
-   pip install -r requirements.txt
-
+```
+├── backend/
+│   ├── main.py            FastAPI app and /api/predict pipeline
+│   ├── agents/            validation, valuation and explanation agents
+│   ├── model/predictor.py model loading and feature preparation
+│   ├── auth/              signup, login, JWT
+│   └── config.py          locality circle and market rates
+├── frontend/              React + Vite app (src/pages: Home, Valuate, About, Login…)
+├── Dataset/               data, generator, 99acres scraper, training script, trained model
+└── doc/                   technical documentation (.docx)
+```

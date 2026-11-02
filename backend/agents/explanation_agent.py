@@ -38,7 +38,7 @@ In 3-4 sentences, explain why this property has this valuation and what factors 
         try:
             client = Groq(api_key=config.GROQ_API_KEY)
             response = client.chat.completions.create(
-                model="llama3-8b-8192",
+                model="llama-3.1-8b-instant",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt},
